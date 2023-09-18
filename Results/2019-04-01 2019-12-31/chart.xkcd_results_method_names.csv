@@ -1,0 +1,8 @@
+yAxis,5,./parser/test_scripts/chart.xkcd/src/utils/addAxis.js,3
+xAxis,5,./parser/test_scripts/chart.xkcd/src/utils/addAxis.js,25
+addFilter,9,./parser/test_scripts/chart.xkcd/src/utils/addFilter.js,1
+addFont,7,./parser/test_scripts/chart.xkcd/src/utils/addFont.js,1
+title,5,./parser/test_scripts/chart.xkcd/src/utils/addLabels.js,1
+xLabel,6,./parser/test_scripts/chart.xkcd/src/utils/addLabels.js,13
+yLabel,6,./parser/test_scripts/chart.xkcd/src/utils/addLabels.js,24
+addLegend,9,./parser/test_scripts/chart.xkcd/src/utils/addLegend.js,3

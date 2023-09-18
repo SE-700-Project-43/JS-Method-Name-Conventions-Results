@@ -1,0 +1,7 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+getStoredTheme,3,True,True,True,True,False
+setStoredTheme,3,True,True,True,True,False
+getPreferredTheme,3,True,True,True,True,False
+setTheme,2,True,True,True,True,False
+showActiveTheme,3,True,True,True,True,False
+search,1,True,False,True,True,False

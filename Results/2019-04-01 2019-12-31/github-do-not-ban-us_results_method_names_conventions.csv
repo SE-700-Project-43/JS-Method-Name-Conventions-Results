@@ -1,0 +1,21 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+freedom,1,True,False,True,True,False
+printGithubForEveryone,4,False,False,True,True,False
+print,1,True,False,True,True,False
+github,1,False,False,True,True,False
+showSupport,2,True,True,True,True,False
+chain,1,True,False,True,True,False
+freedom,1,True,False,True,True,False
+community,1,True,False,True,True,False
+replaceLastItemMapper,4,True,True,True,True,False
+concatSpace,2,False,False,True,True,False
+splitChars,2,True,True,True,True,False
+pushToStream,3,True,True,True,True,False
+execution,1,True,False,True,True,False
+init,1,False,False,True,True,False
+w,1,True,False,False,True,False
+h,1,True,False,False,True,False
+draw,1,True,True,True,True,False
+drawHint,2,True,True,True,True,False
+drawTextLine,3,True,True,True,True,False
+anim,1,False,False,True,True,False

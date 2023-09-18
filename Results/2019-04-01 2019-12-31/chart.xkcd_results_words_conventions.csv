@@ -1,0 +1,16 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+yAxis,y,True,PROPN,1
+yAxis,Axis,True,VERB,4
+xAxis,x,True,VERB,1
+xAxis,Axis,True,VERB,4
+addFilter,add,True,VERB,3
+addFilter,Filter,True,PROPN,6
+addFont,add,True,VERB,3
+addFont,Font,True,PROPN,4
+title,title,True,NOUN,5
+xLabel,x,True,VERB,1
+xLabel,Label,True,PROPN,5
+yLabel,y,True,PROPN,1
+yLabel,Label,True,PROPN,5
+addLegend,add,True,VERB,3
+addLegend,Legend,True,VERB,6

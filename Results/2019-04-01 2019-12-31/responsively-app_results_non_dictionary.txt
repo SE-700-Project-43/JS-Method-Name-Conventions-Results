@@ -1,0 +1,17 @@
+env
+macos
+url
+http
+css
+github
+unfocus
+unmute
+veritically
+config
+json
+ssl
+sha512
+choco
+checksums
+iz
+ing

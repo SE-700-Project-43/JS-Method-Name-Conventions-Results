@@ -1,0 +1,14 @@
+getRepos,8,./parser/test_scripts/gitfolio/api.js,12
+getUser,7,./parser/test_scripts/gitfolio/api.js,58
+populateCSS,11,./parser/test_scripts/gitfolio/build.js,21
+populateConfig,14,./parser/test_scripts/gitfolio/build.js,61
+buildCommand,12,./parser/test_scripts/gitfolio/build.js,67
+convertToEmoji,14,./parser/test_scripts/gitfolio/populate.js,10
+updateHTML,10,./parser/test_scripts/gitfolio/populate.js,33
+runCommand,10,./parser/test_scripts/gitfolio/run.js,7
+createBlog,10,./parser/test_scripts/gitfolio/ui.js,31
+uiCommand,9,./parser/test_scripts/gitfolio/ui.js,147
+updateCommand,13,./parser/test_scripts/gitfolio/update.js,4
+getFileWithDefaults,19,./parser/test_scripts/gitfolio/utils.js,16
+getConfig,9,./parser/test_scripts/gitfolio/utils.js,27
+getBlog,7,./parser/test_scripts/gitfolio/utils.js,31

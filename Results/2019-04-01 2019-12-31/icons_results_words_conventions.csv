@@ -1,0 +1,16 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getStoredTheme,get,True,VERB,3
+getStoredTheme,Stored,True,VERB,6
+getStoredTheme,Theme,True,NOUN,5
+setStoredTheme,set,True,VERB,3
+setStoredTheme,Stored,True,VERB,6
+setStoredTheme,Theme,True,NOUN,5
+getPreferredTheme,get,True,VERB,3
+getPreferredTheme,Preferred,True,VERB,9
+getPreferredTheme,Theme,True,NOUN,5
+setTheme,set,True,VERB,3
+setTheme,Theme,True,NOUN,5
+showActiveTheme,show,True,VERB,4
+showActiveTheme,Active,True,ADJ,6
+showActiveTheme,Theme,True,NOUN,5
+search,search,True,NOUN,6

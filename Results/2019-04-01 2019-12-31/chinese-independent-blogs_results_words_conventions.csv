@@ -1,0 +1,10 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getFeedsPubBtn,get,True,VERB,3
+getFeedsPubBtn,Feeds,True,NOUN,5
+getFeedsPubBtn,Pub,True,NOUN,3
+getFeedsPubBtn,Btn,False,NOUN,3
+getResultAndUpdateREADME,get,True,VERB,3
+getResultAndUpdateREADME,Result,True,VERB,6
+getResultAndUpdateREADME,And,True,CCONJ,3
+getResultAndUpdateREADME,Update,True,VERB,6
+getResultAndUpdateREADME,README,False,PROPN,6

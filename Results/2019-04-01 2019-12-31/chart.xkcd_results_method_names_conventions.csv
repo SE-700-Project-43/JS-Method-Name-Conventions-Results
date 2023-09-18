@@ -1,0 +1,9 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+yAxis,2,False,True,False,True,False
+xAxis,2,False,True,False,True,False
+addFilter,2,True,True,True,True,False
+addFont,2,True,True,True,True,False
+title,1,True,False,True,True,False
+xLabel,2,True,True,False,True,False
+yLabel,2,True,False,False,True,False
+addLegend,2,True,True,True,True,False

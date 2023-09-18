@@ -1,0 +1,15 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+getRepos,2,True,True,True,True,False
+getUser,2,True,True,True,True,False
+populateCSS,2,False,True,True,True,False
+populateConfig,2,True,True,True,True,False
+buildCommand,2,True,True,True,True,False
+convertToEmoji,3,True,True,True,True,False
+updateHTML,2,False,True,True,True,False
+runCommand,2,True,True,True,True,False
+createBlog,2,True,True,True,True,False
+uiCommand,2,False,False,True,True,False
+updateCommand,2,True,True,True,True,False
+getFileWithDefaults,4,True,True,True,True,False
+getConfig,2,True,True,True,True,False
+getBlog,2,True,True,True,True,False

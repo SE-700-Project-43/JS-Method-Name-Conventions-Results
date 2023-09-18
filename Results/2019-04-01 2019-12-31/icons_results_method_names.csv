@@ -1,0 +1,6 @@
+getStoredTheme,14,./parser/test_scripts/icons/docs/assets/js/color-modes.js,8
+setStoredTheme,14,./parser/test_scripts/icons/docs/assets/js/color-modes.js,9
+getPreferredTheme,17,./parser/test_scripts/icons/docs/assets/js/color-modes.js,11
+setTheme,8,./parser/test_scripts/icons/docs/assets/js/color-modes.js,20
+showActiveTheme,15,./parser/test_scripts/icons/docs/assets/js/color-modes.js,30
+search,6,./parser/test_scripts/icons/docs/assets/js/search.js,26
