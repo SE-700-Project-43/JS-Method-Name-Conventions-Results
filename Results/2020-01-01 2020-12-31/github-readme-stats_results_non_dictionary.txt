@@ -1,0 +1,11 @@
+uptime
+prs
+repo
+readme
+github
+cdf
+svg
+cartesian
+donut
+retryer
+waka

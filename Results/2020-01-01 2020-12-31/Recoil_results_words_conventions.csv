@@ -1,0 +1,12 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+resetBatcherToDefault,reset,True,VERB,5
+resetBatcherToDefault,Batcher,False,PROPN,7
+resetBatcherToDefault,To,True,PART,2
+resetBatcherToDefault,Default,True,NOUN,7
+Component,Component,True,NOUN,9
+Component,Component,True,NOUN,9
+Component,Component,True,NOUN,9
+Component,Component,True,NOUN,9
+Component,Component,True,NOUN,9
+Component,Component,True,NOUN,9
+App,App,True,PROPN,3

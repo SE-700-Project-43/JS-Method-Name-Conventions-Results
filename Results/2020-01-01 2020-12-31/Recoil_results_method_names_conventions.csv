@@ -1,0 +1,9 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+resetBatcherToDefault,4,False,True,True,True,False
+Component,1,True,False,True,False,False
+Component,1,True,False,True,False,False
+Component,1,True,False,True,False,False
+Component,1,True,False,True,False,False
+Component,1,True,False,True,False,False
+Component,1,True,False,True,False,False
+App,1,True,False,True,False,False

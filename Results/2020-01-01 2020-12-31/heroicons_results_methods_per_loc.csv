@@ -1,0 +1,13 @@
+6,0,./parser/test_scripts/heroicons/prettier.config.js
+17,0,./parser/test_scripts/heroicons/react/index.esm.js
+17,0,./parser/test_scripts/heroicons/react/index.js
+17,0,./parser/test_scripts/heroicons/react/outline/index.js
+17,0,./parser/test_scripts/heroicons/react/solid/index.js
+210,7,./parser/test_scripts/heroicons/scripts/build.js
+19,0,./parser/test_scripts/heroicons/scripts/release-channel.js
+22,0,./parser/test_scripts/heroicons/scripts/release-notes.js
+41,1,./parser/test_scripts/heroicons/scripts/verify-names.js
+17,0,./parser/test_scripts/heroicons/vue/index.esm.js
+17,0,./parser/test_scripts/heroicons/vue/index.js
+17,0,./parser/test_scripts/heroicons/vue/outline/index.js
+17,0,./parser/test_scripts/heroicons/vue/solid/index.js

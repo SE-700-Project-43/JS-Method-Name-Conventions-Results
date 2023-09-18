@@ -1,0 +1,25 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+start,1,True,True,True,True,False
+registerAdapter,2,True,True,True,True,False
+visit,1,True,True,True,True,False
+connectStreamSource,3,True,True,True,True,False
+disconnectStreamSource,3,True,True,True,True,False
+renderStreamMessage,3,True,True,True,True,False
+clearCache,2,True,False,True,True,False
+setProgressBarDelay,4,True,True,True,True,False
+setConfirmMethod,3,True,True,True,True,False
+setFormMode,3,True,True,True,True,False
+getPermanentElementById,5,False,True,True,True,False
+queryPermanentElementsAll,4,True,False,True,True,False
+getPermanentElementMapForFragment,6,True,True,True,True,False
+withAutofocusFromFragment,4,True,False,True,True,False
+withPreservedFocus,3,True,True,True,True,False
+firstAutofocusableElementInStreams,5,False,False,True,True,False
+requestSubmit,2,True,True,True,True,False
+validateSubmitter,2,True,True,True,True,False
+raise,1,True,True,True,True,False
+serializeToChannel,3,True,True,True,True,False
+eventListener,2,True,False,True,True,False
+gotoPageWithFormMode,5,False,True,True,True,False
+formSubmitStarted,3,True,True,True,True,False
+assertRequestLimit,3,True,True,True,True,False

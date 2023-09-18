@@ -1,0 +1,3 @@
+101,0,./parser/test_scripts/metrics/source/app/web/statics/app.js
+99,0,./parser/test_scripts/metrics/source/app/web/statics/oauth/script.js
+49,1,./parser/test_scripts/metrics/tests/ci.test.js

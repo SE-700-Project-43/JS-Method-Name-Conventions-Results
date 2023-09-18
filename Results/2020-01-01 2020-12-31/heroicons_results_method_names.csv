@@ -1,0 +1,8 @@
+getIcons,8,./parser/test_scripts/heroicons/scripts/build.js,50
+exportAll,9,./parser/test_scripts/heroicons/scripts/build.js,62
+ensureWrite,11,./parser/test_scripts/heroicons/scripts/build.js,74
+ensureWriteJson,15,./parser/test_scripts/heroicons/scripts/build.js,79
+buildIcons,10,./parser/test_scripts/heroicons/scripts/build.js,83
+buildExports,12,./parser/test_scripts/heroicons/scripts/build.js,114
+main,4,./parser/test_scripts/heroicons/scripts/build.js,167
+main,4,./parser/test_scripts/heroicons/scripts/verify-names.js,10

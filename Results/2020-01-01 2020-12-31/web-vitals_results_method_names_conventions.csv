@@ -1,0 +1,20 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+configurePlugins,2,True,False,True,True,False
+triggerLayoutShift,3,True,True,True,True,False
+getAttribution,2,True,True,True,True,False
+containsEntry,2,True,True,True,True,False
+interactionIDsMatch,3,False,True,True,True,False
+setBlockingTime,3,True,True,True,True,False
+assertStandardReportsAreCorrect,5,True,True,True,True,False
+assertFullReportsAreCorrect,5,True,True,True,True,False
+assertValidEntry,3,True,False,True,True,False
+getTTFBBeacon,3,False,True,True,True,False
+beaconCountIs,3,True,False,True,True,False
+getBeacons,2,True,True,True,True,False
+clearBeacons,2,True,False,True,True,False
+browserSupportsEntry,3,True,False,True,True,False
+domReadyState,3,False,False,True,True,False
+imagesPainted,2,True,True,True,True,False
+nextFrame,2,True,False,True,True,False
+stubForwardBack,3,True,False,True,True,False
+stubVisibilityChange,3,True,True,True,True,False

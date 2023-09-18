@@ -1,0 +1,6 @@
+createPages,11,./parser/test_scripts/github-profile-readme-generator/gatsby-node.js,1
+Template,8,./parser/test_scripts/github-profile-readme-generator/src/templates/blogTemplate.js,8
+isGitHubUsernameValid,21,./parser/test_scripts/github-profile-readme-generator/src/utils/validation.js,1
+isMediumUsernameValid,21,./parser/test_scripts/github-profile-readme-generator/src/utils/validation.js,5
+isTwitterUsernameValid,22,./parser/test_scripts/github-profile-readme-generator/src/utils/validation.js,12
+latestBlogs,11,./parser/test_scripts/github-profile-readme-generator/src/utils/workflows.js,3
