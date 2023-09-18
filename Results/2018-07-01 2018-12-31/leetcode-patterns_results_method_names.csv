@@ -1,0 +1,13 @@
+Acknowledgements,16,./parser/test_scripts/leetcode-patterns/src/components/Acknowledgements/index.js,22
+Navigation,10,./parser/test_scripts/leetcode-patterns/src/components/Navigation/index.js,15
+getFrequencyClass,17,./parser/test_scripts/leetcode-patterns/src/components/PatternFrequencies/index.js,22
+PatternFrequencies,18,./parser/test_scripts/leetcode-patterns/src/components/PatternFrequencies/index.js,7
+CreateDropDownListHelper,24,./parser/test_scripts/leetcode-patterns/src/components/Table/filters.js,3
+DefaultColumnFilter,19,./parser/test_scripts/leetcode-patterns/src/components/Table/filters.js,22
+SelectDifficultyColumnFilter,28,./parser/test_scripts/leetcode-patterns/src/components/Table/filters.js,40
+SelectColumnFilter,18,./parser/test_scripts/leetcode-patterns/src/components/Table/filters.js,48
+filter,6,./parser/test_scripts/leetcode-patterns/src/components/Table/filters.js,72
+SelectCheckedColumnFilter,25,./parser/test_scripts/leetcode-patterns/src/components/Table/filters.js,68
+toggle,6,./parser/test_scripts/leetcode-patterns/src/components/Tabs/index.js,22
+Tabs,4,./parser/test_scripts/leetcode-patterns/src/components/Tabs/index.js,19
+Tips,4,./parser/test_scripts/leetcode-patterns/src/components/Tips/index.js,6

@@ -1,0 +1,10 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+configure,configure,True,NOUN,9
+exports,exports,True,NOUN,7
+exports,exports,True,NOUN,7
+exports,exports,True,NOUN,7
+exports,exports,True,NOUN,7
+performanceTest,performance,True,NOUN,11
+performanceTest,Test,True,VERB,4
+runTests,run,True,VERB,3
+runTests,Tests,True,NOUN,5

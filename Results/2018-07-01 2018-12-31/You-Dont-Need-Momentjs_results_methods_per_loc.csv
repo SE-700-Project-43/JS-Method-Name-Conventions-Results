@@ -1,0 +1,9 @@
+26,1,./parser/test_scripts/You-Dont-Need-Momentjs/lib/index.js
+18,1,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-dynamic-import-moment.js
+20,1,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-import-moment.js
+20,1,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-moment-constructor.js
+33,0,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-moment-methods.js
+17,1,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-require-moment.js
+175,0,./parser/test_scripts/You-Dont-Need-Momentjs/lib/__tests__/index.js
+589,0,./parser/test_scripts/You-Dont-Need-Momentjs/__tests__/index.js
+482,2,./parser/test_scripts/You-Dont-Need-Momentjs/__tests__/performance.js

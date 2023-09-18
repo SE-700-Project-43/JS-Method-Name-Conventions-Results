@@ -1,0 +1,7 @@
+params
+rgb
+darwin
+linux
+win32
+uniq
+executables

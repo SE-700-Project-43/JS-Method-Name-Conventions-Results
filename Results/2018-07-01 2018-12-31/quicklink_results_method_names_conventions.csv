@@ -1,0 +1,19 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+networkIdleCallback,3,True,True,True,True,False
+__popCallback__,2,True,True,True,True,False
+handleMessage,2,True,True,True,True,False
+exports,1,True,False,True,True,False
+trackScroll,2,True,True,True,True,False
+scrollToTop,3,True,False,True,True,False
+backToTop,3,True,False,True,True,False
+initGoToTopBtn,5,False,True,True,True,False
+exports,1,True,False,True,True,False
+loadCSS,2,False,False,True,True,False
+enableStylesheet,2,True,True,True,True,False
+bindMediaToggle,3,True,True,True,True,False
+poly,1,True,False,True,True,False
+useIntersect,2,True,True,True,True,False
+__defaultAccessor,2,False,False,True,True,False
+prefetchChunks,2,True,True,True,True,False
+withQuicklink,3,True,True,True,False,False
+sleep,1,True,False,True,True,False
