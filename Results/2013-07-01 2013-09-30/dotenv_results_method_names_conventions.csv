@@ -1,0 +1,20 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+optionMatcher,2,True,True,True,True,False
+optionMatcher,2,True,True,True,True,False
+parse,1,True,True,True,True,False
+_parseVault,2,True,True,True,True,False
+_log,1,True,True,True,True,False
+_warn,1,True,True,True,True,False
+_debug,1,True,False,True,True,False
+_dotenvKey,3,True,False,True,False,False
+_instructions,1,True,False,True,True,False
+_vaultPath,2,True,False,True,True,False
+_resolveHome,2,True,True,True,True,False
+_configVault,2,True,False,True,True,False
+configDotenv,3,True,False,True,False,False
+config,1,True,False,True,True,False
+decrypt,1,True,False,True,True,False
+populate,1,True,True,True,True,False
+spawn,1,True,False,True,True,False
+options,1,True,False,True,True,False
+testOption,2,True,False,True,True,False

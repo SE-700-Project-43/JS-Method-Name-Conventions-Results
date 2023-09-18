@@ -1,0 +1,4 @@
+crlf
+i16
+ansi256
+ansi

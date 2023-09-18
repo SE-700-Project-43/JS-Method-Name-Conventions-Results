@@ -1,0 +1,27 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+handleRequest,2,True,True,True,True,False
+onerror,2,True,False,True,False,False
+handleResponse,2,True,True,True,True,False
+asyncCtxStorage,3,False,False,True,True,False
+respond,1,True,True,True,True,False
+getHeader,2,True,True,True,True,False
+setHeader,2,True,True,True,True,False
+removeHeader,2,True,True,True,True,False
+exports,1,True,False,True,True,False
+request,1,True,False,True,True,False
+response,1,True,False,True,True,False
+dispatch,1,True,True,True,True,False
+requestServer,2,True,False,True,True,False
+end,1,True,False,True,True,False
+compose,1,True,True,True,True,False
+emit,1,True,True,True,True,False
+importESM,2,False,False,True,True,False
+check,1,True,True,True,True,False
+onData,2,True,False,True,True,False
+getHeaders,2,True,True,True,True,False
+escape,1,True,True,True,True,False
+strip,1,True,False,True,True,False
+requestTwice,2,True,False,True,True,False
+requestClosed,2,True,True,True,True,False
+request,1,True,False,True,True,False
+sleep,1,True,False,True,True,False

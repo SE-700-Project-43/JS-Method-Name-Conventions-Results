@@ -1,0 +1,7 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+preface,preface,True,NOUN,7
+doMaintainers,do,True,VERB,2
+doMaintainers,Maintainers,True,NOUN,11
+getPublishDate,get,True,VERB,3
+getPublishDate,Publish,True,PROPN,7
+getPublishDate,Date,True,NOUN,4

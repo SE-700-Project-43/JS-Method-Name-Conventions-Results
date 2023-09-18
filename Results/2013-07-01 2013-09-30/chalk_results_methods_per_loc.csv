@@ -1,0 +1,9 @@
+58,0,./parser/test_scripts/chalk/benchmark.js
+28,0,./parser/test_scripts/chalk/examples/screenshot.js
+34,2,./parser/test_scripts/chalk/source/utilities.js
+224,4,./parser/test_scripts/chalk/source/vendor/ansi-styles/index.js
+31,0,./parser/test_scripts/chalk/source/vendor/supports-color/browser.js
+25,0,./parser/test_scripts/chalk/test/instance.js
+25,0,./parser/test_scripts/chalk/test/no-color-support.js
+40,0,./parser/test_scripts/chalk/test/visible.js
+4,0,./parser/test_scripts/chalk/test/_fixture.js

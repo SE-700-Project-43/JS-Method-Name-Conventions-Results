@@ -1,0 +1,7 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+stringReplaceAll,3,True,True,True,True,False
+stringEncaseCRLFWithFirstIndex,6,False,False,True,True,False
+wrapAnsi16,3,True,True,True,False,False
+wrapAnsi256,2,True,True,True,True,False
+wrapAnsi16m,4,False,True,False,False,False
+assembleStyles,2,True,True,True,True,False

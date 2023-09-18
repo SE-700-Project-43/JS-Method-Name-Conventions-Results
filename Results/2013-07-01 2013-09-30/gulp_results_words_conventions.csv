@@ -1,0 +1,12 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+Gulp,Gulp,True,NOUN,4
+watch,watch,True,VERB,5
+testWriteDir,test,True,NOUN,4
+testWriteDir,Write,True,VERB,5
+testWriteDir,Dir,True,PROPN,3
+createTempFile,create,True,VERB,6
+createTempFile,Temp,True,NOUN,4
+createTempFile,File,True,VERB,4
+updateTempFile,update,True,VERB,6
+updateTempFile,Temp,True,NOUN,4
+updateTempFile,File,True,VERB,4

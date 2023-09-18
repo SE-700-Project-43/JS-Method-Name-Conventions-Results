@@ -1,0 +1,6 @@
+stringReplaceAll,16,./parser/test_scripts/chalk/source/utilities.js,2
+stringEncaseCRLFWithFirstIndex,30,./parser/test_scripts/chalk/source/utilities.js,21
+wrapAnsi16,10,./parser/test_scripts/chalk/source/vendor/ansi-styles/index.js,3
+wrapAnsi256,11,./parser/test_scripts/chalk/source/vendor/ansi-styles/index.js,5
+wrapAnsi16m,11,./parser/test_scripts/chalk/source/vendor/ansi-styles/index.js,7
+assembleStyles,14,./parser/test_scripts/chalk/source/vendor/ansi-styles/index.js,73

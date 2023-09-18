@@ -1,0 +1,13 @@
+10,0,./parser/test_scripts/dotenv/config.js
+12,2,./parser/test_scripts/dotenv/lib/cli-options.js
+25,0,./parser/test_scripts/dotenv/lib/env-options.js
+315,14,./parser/test_scripts/dotenv/lib/main.js
+30,0,./parser/test_scripts/dotenv/tests/test-cli-options.js
+77,1,./parser/test_scripts/dotenv/tests/test-config-cli.js
+309,0,./parser/test_scripts/dotenv/tests/test-config-vault.js
+195,0,./parser/test_scripts/dotenv/tests/test-config.js
+15,0,./parser/test_scripts/dotenv/tests/test-decrypt.js
+59,2,./parser/test_scripts/dotenv/tests/test-env-options.js
+63,0,./parser/test_scripts/dotenv/tests/test-parse-multiline.js
+99,0,./parser/test_scripts/dotenv/tests/test-parse.js
+101,0,./parser/test_scripts/dotenv/tests/test-populate.js

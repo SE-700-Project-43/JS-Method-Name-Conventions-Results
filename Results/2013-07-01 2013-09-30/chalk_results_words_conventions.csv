@@ -1,0 +1,21 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+stringReplaceAll,string,True,PROPN,6
+stringReplaceAll,Replace,True,VERB,7
+stringReplaceAll,All,True,PRON,3
+stringEncaseCRLFWithFirstIndex,string,True,PROPN,6
+stringEncaseCRLFWithFirstIndex,Encase,True,NOUN,6
+stringEncaseCRLFWithFirstIndex,CRLF,False,PROPN,4
+stringEncaseCRLFWithFirstIndex,With,True,ADP,4
+stringEncaseCRLFWithFirstIndex,First,True,ADV,5
+stringEncaseCRLFWithFirstIndex,Index,True,NOUN,5
+wrapAnsi16,wrap,True,VERB,4
+wrapAnsi16,Ans,True,NOUN,3
+wrapAnsi16,i16,False,X,3
+wrapAnsi256,wrap,True,VERB,4
+wrapAnsi256,Ansi256,False,PROPN,7
+wrapAnsi16m,wrap,True,VERB,4
+wrapAnsi16m,Ansi,False,PROPN,4
+wrapAnsi16m,16,True,NUM,2
+wrapAnsi16m,m,True,VERB,1
+assembleStyles,assemble,True,VERB,8
+assembleStyles,Styles,True,NOUN,6

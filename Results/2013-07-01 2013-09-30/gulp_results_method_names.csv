@@ -1,0 +1,5 @@
+Gulp,4,./parser/test_scripts/gulp/index.js,8
+watch,5,./parser/test_scripts/gulp/index.js,28
+testWriteDir,12,./parser/test_scripts/gulp/test/dest.js,108
+createTempFile,14,./parser/test_scripts/gulp/test/watch.js,18
+updateTempFile,14,./parser/test_scripts/gulp/test/watch.js,22

@@ -1,0 +1,10 @@
+287,0,./parser/test_scripts/hackathon-starter/app.js
+662,2,./parser/test_scripts/hackathon-starter/config/passport.js
+760,37,./parser/test_scripts/hackathon-starter/controllers/api.js
+111,3,./parser/test_scripts/hackathon-starter/controllers/contact.js
+10,1,./parser/test_scripts/hackathon-starter/controllers/home.js
+545,23,./parser/test_scripts/hackathon-starter/controllers/user.js
+75,5,./parser/test_scripts/hackathon-starter/models/User.js
+5,0,./parser/test_scripts/hackathon-starter/public/js/main.js
+118,0,./parser/test_scripts/hackathon-starter/test/app.js
+142,0,./parser/test_scripts/hackathon-starter/test/models.js

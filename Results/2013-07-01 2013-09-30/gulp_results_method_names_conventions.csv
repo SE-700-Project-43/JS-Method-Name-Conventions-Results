@@ -1,0 +1,6 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+Gulp,1,True,False,True,False,False
+watch,1,True,True,True,True,False
+testWriteDir,3,False,True,True,True,False
+createTempFile,3,True,True,True,True,False
+updateTempFile,3,True,True,True,True,False
