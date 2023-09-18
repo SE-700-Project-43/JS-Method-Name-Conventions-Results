@@ -1,0 +1,11 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+exports,exports,True,NOUN,7
+exports,exports,True,NOUN,7
+exports,exports,True,NOUN,7
+exports,exports,True,NOUN,7
+Item,Item,True,NOUN,4
+down,down,True,ADV,4
+Search,Search,True,NOUN,6
+useSSG,use,True,VERB,3
+useSSG,SSG,False,PROPN,3
+Logo,Logo,True,PROPN,4

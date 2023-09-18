@@ -1,0 +1,6 @@
+lerp
+bezier
+sqrt
+svg
+noop
+prerender

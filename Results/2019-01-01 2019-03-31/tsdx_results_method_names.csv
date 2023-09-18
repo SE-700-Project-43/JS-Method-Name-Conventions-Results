@@ -1,0 +1,9 @@
+exports,7,./parser/test_scripts/tsdx/test/integration/fixtures/build-withBabel/test-babel-preset.js,2
+exports,7,./parser/test_scripts/tsdx/website/.nextra/babel-plugin-nextjs-mdx-patch.js,15
+exports,7,./parser/test_scripts/tsdx/website/.nextra/nextra-loader.js,1
+exports,7,./parser/test_scripts/tsdx/website/.nextra/nextra.js,3
+Item,4,./parser/test_scripts/tsdx/website/.nextra/search.js,7
+down,4,./parser/test_scripts/tsdx/website/.nextra/search.js,78
+Search,6,./parser/test_scripts/tsdx/website/.nextra/search.js,29
+useSSG,6,./parser/test_scripts/tsdx/website/.nextra/ssg.js,6
+Logo,4,./parser/test_scripts/tsdx/website/components/logo.js,3
