@@ -1,0 +1,27 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+log,1,True,True,True,True,False
+sortClasses,2,True,True,True,True,False
+runChecks,2,True,True,True,True,False
+log,1,True,True,True,True,False
+iterate,1,True,False,True,True,False
+deferredForEach,3,True,True,True,True,False
+onload,2,True,False,True,False,False
+runSuite,2,True,True,True,True,False
+classNames,2,True,False,True,True,False
+StorageObject,2,True,True,True,False,False
+_parseArray,2,True,True,True,True,False
+_parseNumber,2,True,True,True,True,False
+_parseObject,2,True,True,True,True,False
+_parseString,2,True,True,True,True,False
+_parse,1,True,True,True,True,False
+_classNames,2,True,False,True,True,False
+classNames,2,True,False,True,True,False
+Class1,2,True,False,False,False,False
+Class2,2,True,False,False,False,False
+toString,2,True,False,True,True,False
+Class1,2,True,False,False,False,False
+Class2,2,True,False,False,False,False
+toString,2,True,False,True,True,False
+Class1,2,True,False,False,False,False
+Class2,2,True,False,False,False,False
+toString,2,True,False,True,True,False

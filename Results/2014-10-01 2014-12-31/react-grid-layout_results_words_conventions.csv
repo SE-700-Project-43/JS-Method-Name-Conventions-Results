@@ -1,0 +1,6 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getEqualType,get,True,VERB,3
+getEqualType,Equal,True,ADJ,5
+getEqualType,Type,True,NOUN,4
+exports,exports,True,NOUN,7
+sort,sort,True,VERB,4

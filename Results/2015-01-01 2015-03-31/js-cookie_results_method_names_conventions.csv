@@ -1,0 +1,10 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+encodingMiddleware,2,True,True,True,True,False
+exports,1,True,False,True,True,False
+readConverter,2,True,True,True,True,False
+read,1,True,True,True,True,False
+findValueForAttributeName,5,True,True,True,True,False
+getQuery,2,True,True,True,True,False
+setCookie,2,True,True,True,True,False
+using,1,True,True,True,True,False
+quoted,1,True,True,True,True,False

@@ -1,0 +1,10 @@
+15,0,./parser/test_scripts/fetch/.eslintrc.js
+642,45,./parser/test_scripts/fetch/fetch.js
+3,0,./parser/test_scripts/fetch/prettier.config.js
+9,0,./parser/test_scripts/fetch/rollup.config.js
+22,1,./parser/test_scripts/fetch/test/karma-worker.config.js
+57,1,./parser/test_scripts/fetch/test/karma.config.js
+136,1,./parser/test_scripts/fetch/test/server.js
+1554,10,./parser/test_scripts/fetch/test/test.js
+30,1,./parser/test_scripts/fetch/test/worker-adapter.js
+41,2,./parser/test_scripts/fetch/test/worker.js

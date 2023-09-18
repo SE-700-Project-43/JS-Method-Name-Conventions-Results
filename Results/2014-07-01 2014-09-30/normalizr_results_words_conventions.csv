@@ -1,0 +1,21 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+start,start,True,VERB,5
+main,main,True,ADJ,4
+browseMain,browse,True,NOUN,6
+browseMain,Main,True,ADJ,4
+browse,browse,True,NOUN,6
+browseDenormalized,browse,True,NOUN,6
+browseDenormalized,Denormalized,False,VERB,12
+pull,pull,True,VERB,4
+addEntities,add,True,VERB,3
+addEntities,Entities,True,NOUN,8
+validateSchema,validate,True,VERB,8
+validateSchema,Schema,True,PROPN,6
+getValues,get,True,VERB,3
+getValues,Values,True,NOUN,6
+normalize,normalize,True,VERB,9
+denormalize,denormalize,False,VERB,11
+isImmutable,is,True,AUX,2
+isImmutable,Immutable,True,ADJ,9
+denormalizeImmutable,denormalize,False,VERB,11
+denormalizeImmutable,Immutable,True,ADJ,9

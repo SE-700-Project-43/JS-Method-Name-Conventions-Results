@@ -1,0 +1,11 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+getSvg,2,False,True,True,True,False
+buildIconsObject,3,True,True,True,True,False
+getSvgContents,3,False,True,True,True,False
+buildSpriteString,3,True,True,True,True,False
+toSvgSymbol,3,False,False,True,True,False
+optimizeSvg,2,False,True,True,True,False
+svgo,1,False,False,True,True,False
+setAttrs,2,False,True,True,True,False
+getSvg,2,False,True,True,True,False
+toSvg,2,False,False,True,True,False

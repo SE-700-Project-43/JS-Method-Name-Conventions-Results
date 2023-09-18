@@ -1,0 +1,11 @@
+4,0,./parser/test_scripts/js-cookie/examples/es-module/src/main.js
+17,0,./parser/test_scripts/js-cookie/examples/webpack/server.js
+4,0,./parser/test_scripts/js-cookie/examples/webpack/src/index.js
+125,2,./parser/test_scripts/js-cookie/Gruntfile.js
+3,0,./parser/test_scripts/js-cookie/index.js
+1171,0,./parser/test_scripts/js-cookie/test/encoding.js
+2,0,./parser/test_scripts/js-cookie/test/fix-qunit-reference.js
+25,0,./parser/test_scripts/js-cookie/test/node.js
+10,0,./parser/test_scripts/js-cookie/test/sub/tests.js
+607,3,./parser/test_scripts/js-cookie/test/tests.js
+74,4,./parser/test_scripts/js-cookie/test/utils.js

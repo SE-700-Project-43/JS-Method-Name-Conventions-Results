@@ -1,0 +1,11 @@
+2,0,./parser/test_scripts/es6tutorial/app/bower_components/marked/index.js
+1267,45,./parser/test_scripts/es6tutorial/app/bower_components/marked/lib/marked.js
+42,1,./parser/test_scripts/es6tutorial/app/bower_components/marked/test/browser/index.js
+63,6,./parser/test_scripts/es6tutorial/app/bower_components/marked/test/browser/test.js
+28,1,./parser/test_scripts/es6tutorial/config.js
+499,22,./parser/test_scripts/es6tutorial/js/ditto.js
+5,146,./parser/test_scripts/es6tutorial/js/jquery-1.11.0.min.js
+7,107,./parser/test_scripts/es6tutorial/js/jquery-ui.min.js
+1,45,./parser/test_scripts/es6tutorial/js/marked.js
+7,14,./parser/test_scripts/es6tutorial/js/prism.js
+2,27,./parser/test_scripts/es6tutorial/js/store.js

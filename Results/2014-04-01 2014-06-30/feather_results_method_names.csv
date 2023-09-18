@@ -1,0 +1,10 @@
+getSvg,6,./parser/test_scripts/feather/bin/build-icons-json.js,15
+buildIconsObject,16,./parser/test_scripts/feather/bin/build-icons-object.js,11
+getSvgContents,14,./parser/test_scripts/feather/bin/build-icons-object.js,30
+buildSpriteString,17,./parser/test_scripts/feather/bin/build-sprite-string.js,8
+toSvgSymbol,11,./parser/test_scripts/feather/bin/build-sprite-string.js,22
+optimizeSvg,11,./parser/test_scripts/feather/bin/optimize-svg.js,11
+svgo,4,./parser/test_scripts/feather/bin/optimize-svg.js,20
+setAttrs,8,./parser/test_scripts/feather/bin/optimize-svg.js,40
+getSvg,6,./parser/test_scripts/feather/bin/__tests__/build-icons-object.test.js,11
+toSvg,5,./parser/test_scripts/feather/src/to-svg.js,10

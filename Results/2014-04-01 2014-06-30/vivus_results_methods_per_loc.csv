@@ -1,0 +1,9 @@
+1223,40,./parser/test_scripts/vivus/dist/vivus.js
+1,40,./parser/test_scripts/vivus/dist/vivus.min.js
+277,10,./parser/test_scripts/vivus/src/pathformer.js
+918,30,./parser/test_scripts/vivus/src/vivus.js
+37,0,./parser/test_scripts/vivus/src/_build.js
+76,1,./parser/test_scripts/vivus/test/karma.conf.js
+323,0,./parser/test_scripts/vivus/test/unit/pathformer.spec.js
+670,8,./parser/test_scripts/vivus/test/unit/vivus.spec.js
+15,2,./parser/test_scripts/vivus/test/unit.setup.js

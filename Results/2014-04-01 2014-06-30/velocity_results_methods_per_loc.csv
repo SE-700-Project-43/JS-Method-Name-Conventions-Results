@@ -1,0 +1,13 @@
+29,0,./parser/test_scripts/velocity/babel.config.js
+188,2,./parser/test_scripts/velocity/rollup.config.js
+91,7,./parser/test_scripts/velocity/src/fakeClass.js
+5,164,./parser/test_scripts/velocity/test/jquery-3.2.1.min.js
+5189,216,./parser/test_scripts/velocity/test/qunit-2.5.0.js
+219,7,./parser/test_scripts/velocity/test/qunit-assert-close.js
+2402,129,./parser/test_scripts/velocity/test/test.js
+2,102,./parser/test_scripts/velocity/test/zepto-1.2.0.min.js
+4849,186,./parser/test_scripts/velocity/velocity.es5.js
+4857,186,./parser/test_scripts/velocity/velocity.js
+7,101,./parser/test_scripts/velocity/velocity.min.js
+1235,0,./parser/test_scripts/velocity/velocity.ui.js
+7,0,./parser/test_scripts/velocity/velocity.ui.min.js

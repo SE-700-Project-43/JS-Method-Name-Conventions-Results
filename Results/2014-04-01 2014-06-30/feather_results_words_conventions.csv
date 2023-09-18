@@ -1,0 +1,24 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getSvg,get,True,VERB,3
+getSvg,Svg,False,PROPN,3
+buildIconsObject,build,True,VERB,5
+buildIconsObject,Icons,True,NOUN,5
+buildIconsObject,Object,True,VERB,6
+getSvgContents,get,True,VERB,3
+getSvgContents,Svg,False,PROPN,3
+getSvgContents,Contents,True,NOUN,8
+buildSpriteString,build,True,VERB,5
+buildSpriteString,Sprite,True,PROPN,6
+buildSpriteString,String,True,NOUN,6
+toSvgSymbol,to,True,PART,2
+toSvgSymbol,Svg,False,PROPN,3
+toSvgSymbol,Symbol,True,NOUN,6
+optimizeSvg,optimize,True,VERB,8
+optimizeSvg,Svg,False,PROPN,3
+svgo,svgo,False,PROPN,4
+setAttrs,set,True,VERB,3
+setAttrs,Attrs,False,PROPN,5
+getSvg,get,True,VERB,3
+getSvg,Svg,False,PROPN,3
+toSvg,to,True,PART,2
+toSvg,Svg,False,PROPN,3

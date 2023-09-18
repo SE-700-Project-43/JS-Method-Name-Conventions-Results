@@ -1,0 +1,18 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+encodingMiddleware,encoding,True,VERB,8
+encodingMiddleware,Middleware,False,NOUN,10
+exports,exports,True,NOUN,7
+readConverter,read,True,VERB,4
+readConverter,Converter,True,NOUN,9
+read,read,True,VERB,4
+findValueForAttributeName,find,True,VERB,4
+findValueForAttributeName,Value,True,NOUN,5
+findValueForAttributeName,For,True,ADP,3
+findValueForAttributeName,Attribute,True,VERB,9
+findValueForAttributeName,Name,True,NOUN,4
+getQuery,get,True,VERB,3
+getQuery,Query,True,NOUN,5
+setCookie,set,True,VERB,3
+setCookie,Cookie,True,PROPN,6
+using,using,True,VERB,5
+quoted,quoted,True,VERB,6

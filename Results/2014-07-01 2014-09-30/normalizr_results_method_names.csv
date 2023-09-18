@@ -1,0 +1,13 @@
+start,5,./parser/test_scripts/normalizr/examples/redux/index.js,8
+main,4,./parser/test_scripts/normalizr/examples/redux/index.js,30
+browseMain,10,./parser/test_scripts/normalizr/examples/redux/index.js,52
+browse,6,./parser/test_scripts/normalizr/examples/redux/index.js,83
+browseDenormalized,18,./parser/test_scripts/normalizr/examples/redux/index.js,136
+pull,4,./parser/test_scripts/normalizr/examples/redux/index.js,166
+addEntities,11,./parser/test_scripts/normalizr/examples/redux/src/redux/actions.js,9
+validateSchema,14,./parser/test_scripts/normalizr/src/schemas/Array.js,3
+getValues,9,./parser/test_scripts/normalizr/src/schemas/Array.js,12
+normalize,9,./parser/test_scripts/normalizr/src/schemas/Array.js,14
+denormalize,11,./parser/test_scripts/normalizr/src/schemas/Array.js,24
+isImmutable,11,./parser/test_scripts/normalizr/src/schemas/ImmutableUtils.js,13
+denormalizeImmutable,20,./parser/test_scripts/normalizr/src/schemas/ImmutableUtils.js,31

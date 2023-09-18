@@ -1,0 +1,27 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+extractErrors,2,True,True,True,True,False
+hideSensitiveValues,3,True,True,True,True,False
+tagsToVersions,3,True,False,True,True,False
+isMajorRange,3,True,False,True,True,False
+isMaintenanceRange,3,True,False,True,True,False
+getUpperBound,3,True,True,True,True,False
+getLowerBound,3,True,True,True,True,False
+highest,1,True,False,True,True,False
+lowest,1,True,False,True,True,False
+getLatestVersion,3,False,True,True,True,False
+getEarliestVersion,3,False,True,True,True,False
+getFirstVersion,3,True,True,True,True,False
+getRange,2,True,True,True,True,False
+makeTag,2,True,True,True,True,False
+isSameChannel,3,True,False,True,True,False
+toTags,2,True,False,True,True,False
+verifyConditions,2,True,True,True,True,False
+pull,1,True,True,True,True,False
+start,1,True,True,True,True,False
+stop,1,True,True,True,True,False
+createRepo,2,True,True,True,True,False
+npmView,2,False,False,True,True,False
+pluginFunction,2,True,True,True,True,False
+getNextInput,3,True,True,True,True,False
+getNextInput,3,True,True,True,True,False
+success,1,True,False,True,True,False

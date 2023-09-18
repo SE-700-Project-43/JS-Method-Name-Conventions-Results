@@ -1,0 +1,14 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+start,1,True,True,True,True,False
+main,1,True,False,True,True,False
+browseMain,2,True,False,True,True,False
+browse,1,True,False,True,True,False
+browseDenormalized,2,True,True,True,True,False
+pull,1,True,True,True,True,False
+addEntities,2,True,True,True,True,False
+validateSchema,2,True,True,True,True,False
+getValues,2,True,True,True,True,False
+normalize,1,True,True,True,True,False
+denormalize,1,True,True,True,True,False
+isImmutable,2,True,False,True,True,False
+denormalizeImmutable,2,True,True,True,True,False
