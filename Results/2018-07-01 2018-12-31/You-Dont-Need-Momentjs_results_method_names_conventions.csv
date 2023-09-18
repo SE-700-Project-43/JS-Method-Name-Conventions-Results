@@ -1,0 +1,8 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+configure,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+performanceTest,2,True,True,True,True,False
+runTests,2,True,True,True,True,False

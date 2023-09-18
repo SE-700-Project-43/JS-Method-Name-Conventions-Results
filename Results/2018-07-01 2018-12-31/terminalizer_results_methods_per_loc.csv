@@ -1,0 +1,13 @@
+105,1,./parser/test_scripts/terminalizer/app.js
+54,2,./parser/test_scripts/terminalizer/commands/config.js
+66,3,./parser/test_scripts/terminalizer/commands/generate.js
+76,2,./parser/test_scripts/terminalizer/commands/init.js
+232,6,./parser/test_scripts/terminalizer/commands/play.js
+326,7,./parser/test_scripts/terminalizer/commands/record.js
+438,13,./parser/test_scripts/terminalizer/commands/render.js
+155,7,./parser/test_scripts/terminalizer/di.js
+103,1,./parser/test_scripts/terminalizer/render/index.js
+19,1,./parser/test_scripts/terminalizer/render/preload.js
+116,2,./parser/test_scripts/terminalizer/render/src/js/app.js
+353,14,./parser/test_scripts/terminalizer/utility.js
+46,0,./parser/test_scripts/terminalizer/webpack.config.js

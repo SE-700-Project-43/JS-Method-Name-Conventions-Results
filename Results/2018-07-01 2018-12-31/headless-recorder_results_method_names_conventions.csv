@@ -1,0 +1,16 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+waitForAndGetEvents,5,True,True,True,True,False
+waitForRecorderEvents,4,True,True,True,True,False
+getEventLog,3,True,True,True,True,False
+cleanEventLog,3,True,True,True,True,False
+retry,1,True,False,True,True,False
+connect,1,True,True,True,True,False
+startServer,2,True,True,True,True,False
+mouseOverEvent,3,True,True,True,True,False
+scrollEvent,2,True,False,True,True,False
+createChromeLocalStorageMock,5,True,True,True,True,False
+isDarkMode,3,True,False,True,True,False
+selector,1,True,False,True,True,False
+clearState,2,True,False,True,True,False
+launchPuppeteerWithExtension,4,True,False,True,True,False
+runBuild,2,True,True,True,True,False

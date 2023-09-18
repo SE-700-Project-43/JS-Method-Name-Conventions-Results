@@ -1,0 +1,6 @@
+memoized
+jsx
+dev
+fn
+wdyr
+astrict

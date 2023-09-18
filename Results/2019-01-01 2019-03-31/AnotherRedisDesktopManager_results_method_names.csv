@@ -1,0 +1,15 @@
+exec,4,./parser/test_scripts/AnotherRedisDesktopManager/build/check-versions.js,7
+exports,7,./parser/test_scripts/AnotherRedisDesktopManager/build/check-versions.js,27
+assetsPath,10,./parser/test_scripts/AnotherRedisDesktopManager/build/utils.js,8
+generateLoaders,15,./parser/test_scripts/AnotherRedisDesktopManager/build/utils.js,34
+cssLoaders,10,./parser/test_scripts/AnotherRedisDesktopManager/build/utils.js,16
+styleLoaders,12,./parser/test_scripts/AnotherRedisDesktopManager/build/utils.js,74
+createNotifierCallback,22,./parser/test_scripts/AnotherRedisDesktopManager/build/utils.js,89
+resolve,7,./parser/test_scripts/AnotherRedisDesktopManager/build/webpack.base.conf.js,7
+createWindow,12,./parser/test_scripts/AnotherRedisDesktopManager/pack/electron/electron-main.js,41
+update,6,./parser/test_scripts/AnotherRedisDesktopManager/pack/electron/update.js,9
+bindMainListener,16,./parser/test_scripts/AnotherRedisDesktopManager/pack/electron/update.js,30
+sendCommand,11,./parser/test_scripts/AnotherRedisDesktopManager/src/redisClient.js,11
+later,5,./parser/test_scripts/AnotherRedisDesktopManager/src/util.js,339
+debounced,9,./parser/test_scripts/AnotherRedisDesktopManager/src/util.js,335
+cancel,6,./parser/test_scripts/AnotherRedisDesktopManager/src/util.js,350

@@ -1,0 +1,10 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+exports,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+exports,1,True,False,True,True,False
+Item,1,True,False,True,False,False
+down,1,True,False,True,True,False
+Search,1,True,False,True,False,False
+useSSG,2,False,True,True,True,False
+Logo,1,True,False,True,False,False

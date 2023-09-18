@@ -1,0 +1,10 @@
+15,0,./parser/test_scripts/quicklink/.babelrc.js
+87,0,./parser/test_scripts/quicklink/.eslintrc.js
+109,3,./parser/test_scripts/quicklink/demos/network-idle.js
+32,0,./parser/test_scripts/quicklink/demos/sw.js
+97,1,./parser/test_scripts/quicklink/site/.eleventy.js
+59,4,./parser/test_scripts/quicklink/site/src/assets/js/script.js
+125,1,./parser/test_scripts/quicklink/site/src/_data/site.js
+21,4,./parser/test_scripts/quicklink/site/src/_includes/js/vendor/cssrelpreload.js
+86,4,./parser/test_scripts/quicklink/src/react-chunks.js
+359,1,./parser/test_scripts/quicklink/test/quicklink.spec.js

@@ -1,0 +1,14 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+Acknowledgements,1,True,False,True,False,False
+Navigation,1,True,False,True,False,False
+getFrequencyClass,3,True,True,True,True,False
+PatternFrequencies,2,True,False,True,False,False
+CreateDropDownListHelper,5,True,True,True,False,False
+DefaultColumnFilter,3,True,False,True,False,False
+SelectDifficultyColumnFilter,4,True,False,True,False,False
+SelectColumnFilter,3,True,False,True,False,False
+filter,1,True,True,True,True,False
+SelectCheckedColumnFilter,4,True,True,True,False,False
+toggle,1,True,False,True,True,False
+Tabs,1,True,False,True,False,False
+Tips,1,True,False,True,False,False

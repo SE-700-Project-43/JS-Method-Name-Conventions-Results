@@ -1,0 +1,15 @@
+waitForAndGetEvents,19,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,4
+waitForRecorderEvents,21,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,9
+getEventLog,11,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,13
+cleanEventLog,13,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,19
+retry,5,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,34
+connect,7,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,39
+startServer,11,./parser/test_scripts/headless-recorder/src/content-scripts/__tests__/helpers.js,25
+mouseOverEvent,14,./parser/test_scripts/headless-recorder/src/modules/overlay/index.js,51
+scrollEvent,11,./parser/test_scripts/headless-recorder/src/modules/overlay/index.js,66
+createChromeLocalStorageMock,28,./parser/test_scripts/headless-recorder/src/options/__tests__/App.spec.js,4
+isDarkMode,10,./parser/test_scripts/headless-recorder/src/services/constants.js,16
+selector,8,./parser/test_scripts/headless-recorder/src/services/selector.js,3
+clearState,10,./parser/test_scripts/headless-recorder/src/store/index.js,5
+launchPuppeteerWithExtension,28,./parser/test_scripts/headless-recorder/src/__tests__/helpers.js,8
+runBuild,8,./parser/test_scripts/headless-recorder/src/__tests__/helpers.js,28

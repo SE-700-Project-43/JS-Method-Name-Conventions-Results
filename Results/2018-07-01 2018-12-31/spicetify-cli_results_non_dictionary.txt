@@ -1,0 +1,4 @@
+svg
+config
+spotify
+vims

@@ -1,0 +1,7 @@
+configure,9,./parser/test_scripts/You-Dont-Need-Momentjs/lib/index.js,14
+exports,7,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-dynamic-import-moment.js,3
+exports,7,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-import-moment.js,1
+exports,7,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-moment-constructor.js,1
+exports,7,./parser/test_scripts/You-Dont-Need-Momentjs/lib/rules/no-require-moment.js,1
+performanceTest,15,./parser/test_scripts/You-Dont-Need-Momentjs/__tests__/performance.js,34
+runTests,8,./parser/test_scripts/You-Dont-Need-Momentjs/__tests__/performance.js,42

@@ -1,0 +1,12 @@
+201,4,./parser/test_scripts/spicetify-cli/CustomApps/lyrics-plus/TabBar.js
+102,0,./parser/test_scripts/spicetify-cli/CustomApps/new-releases/Icons.js
+303,7,./parser/test_scripts/spicetify-cli/CustomApps/new-releases/Settings.js
+210,0,./parser/test_scripts/spicetify-cli/CustomApps/reddit/Card.js
+106,0,./parser/test_scripts/spicetify-cli/CustomApps/reddit/Icons.js
+176,11,./parser/test_scripts/spicetify-cli/CustomApps/reddit/Settings.js
+50,0,./parser/test_scripts/spicetify-cli/CustomApps/reddit/SortBox.js
+174,3,./parser/test_scripts/spicetify-cli/CustomApps/reddit/TabBar.js
+32,1,./parser/test_scripts/spicetify-cli/Extensions/autoSkipExplicit.js
+19,1,./parser/test_scripts/spicetify-cli/Extensions/autoSkipVideo.js
+311,17,./parser/test_scripts/spicetify-cli/Extensions/keyboardShortcut.js
+114,6,./parser/test_scripts/spicetify-cli/Extensions/loopyLoop.js

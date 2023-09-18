@@ -1,0 +1,26 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+exec,exec,True,VERB,4
+exports,exports,True,NOUN,7
+assetsPath,assets,True,NOUN,6
+assetsPath,Path,True,NOUN,4
+generateLoaders,generate,True,VERB,8
+generateLoaders,Loaders,True,NOUN,7
+cssLoaders,css,False,ADV,3
+cssLoaders,Loaders,True,NOUN,7
+styleLoaders,style,True,NOUN,5
+styleLoaders,Loaders,True,NOUN,7
+createNotifierCallback,create,True,VERB,6
+createNotifierCallback,Notifier,True,ADV,8
+createNotifierCallback,Callback,True,NOUN,8
+resolve,resolve,True,VERB,7
+createWindow,create,True,VERB,6
+createWindow,Window,True,NOUN,6
+update,update,True,VERB,6
+bindMainListener,bind,True,VERB,4
+bindMainListener,Main,True,ADJ,4
+bindMainListener,Listener,True,PROPN,8
+sendCommand,send,True,VERB,4
+sendCommand,Command,True,NOUN,7
+later,later,True,ADV,5
+debounced,debounced,False,VERB,9
+cancel,cancel,True,VERB,6
