@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+toPOSIXPath,3,False,False,True,True,False
+zx,1,False,True,True,True,False
+log,1,True,True,True,True,False

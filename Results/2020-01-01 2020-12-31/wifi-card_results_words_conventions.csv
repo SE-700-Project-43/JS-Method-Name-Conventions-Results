@@ -1,0 +1,6 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+langSelectDefaultValue,lang,True,PROPN,4
+langSelectDefaultValue,Select,True,PROPN,6
+langSelectDefaultValue,Default,True,NOUN,7
+langSelectDefaultValue,Value,True,NOUN,5
+Settings,Settings,True,NOUN,8

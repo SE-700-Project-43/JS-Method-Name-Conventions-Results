@@ -1,0 +1,5 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+Home,Home,True,NOUN,4
+Post,Post,True,NOUN,4
+CatchAll,Catch,True,VERB,5
+CatchAll,All,True,PRON,3

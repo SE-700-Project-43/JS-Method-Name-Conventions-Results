@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+saveProjectPreviewImage,4,True,True,True,True,False
+loadImg,2,False,False,True,True,False
+saveProjectPreviewGIF,4,False,True,True,True,False

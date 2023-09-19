@@ -1,0 +1,11 @@
+61,0,./parser/test_scripts/project_web3.0/client/.eslintrc.js
+5,0,./parser/test_scripts/project_web3.0/client/postcss.config.js
+7,0,./parser/test_scripts/project_web3.0/client/src/components/index.js
+5,0,./parser/test_scripts/project_web3.0/client/src/utils/constants.js
+58,0,./parser/test_scripts/project_web3.0/client/src/utils/dummyData.js
+2,1,./parser/test_scripts/project_web3.0/client/src/utils/shortenAddress.js
+36,0,./parser/test_scripts/project_web3.0/client/tailwind.config.js
+8,0,./parser/test_scripts/project_web3.0/client/vite.config.js
+11,0,./parser/test_scripts/project_web3.0/smart_contract/hardhat.config.js
+20,2,./parser/test_scripts/project_web3.0/smart_contract/scripts/deploy.js
+20,0,./parser/test_scripts/project_web3.0/smart_contract/test/sample-test.js

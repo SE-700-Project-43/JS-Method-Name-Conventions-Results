@@ -1,0 +1,10 @@
+133,3,./parser/test_scripts/social-analyzer/modules/engine.js
+153,4,./parser/test_scripts/social-analyzer/modules/external-apis.js
+93,2,./parser/test_scripts/social-analyzer/modules/extraction.js
+216,4,./parser/test_scripts/social-analyzer/modules/fast-scan.js
+80,1,./parser/test_scripts/social-analyzer/modules/name-analysis.js
+197,2,./parser/test_scripts/social-analyzer/modules/slow-scan.js
+193,4,./parser/test_scripts/social-analyzer/modules/special-scan.js
+114,4,./parser/test_scripts/social-analyzer/modules/stats.js
+285,13,./parser/test_scripts/social-analyzer/modules/string-analysis.js
+89,1,./parser/test_scripts/social-analyzer/modules/visualize.js

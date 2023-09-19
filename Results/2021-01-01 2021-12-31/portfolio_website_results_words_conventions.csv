@@ -1,0 +1,17 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+Acomplishments,Acomplishments,False,NOUN,14
+BackgroundAnimation,Background,True,NOUN,10
+BackgroundAnimation,Animation,True,NOUN,9
+Footer,Footer,True,PROPN,6
+Header,Header,True,NOUN,6
+NavDropDown,Nav,True,NOUN,3
+NavDropDown,Drop,True,VERB,4
+NavDropDown,Down,True,ADV,4
+Projects,Projects,True,NOUN,8
+Technologies,Tech,True,NOUN,4
+Technologies,nolog,False,NOUN,5
+Technologies,ies,False,ADP,3
+Layout,Layout,True,NOUN,6
+Home,Home,True,NOUN,4
+Button,Button,True,PROPN,6
+Theme,Theme,True,NOUN,5

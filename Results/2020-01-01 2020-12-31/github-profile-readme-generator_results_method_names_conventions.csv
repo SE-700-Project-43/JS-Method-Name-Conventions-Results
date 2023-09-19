@@ -1,0 +1,7 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+createPages,2,True,True,True,True,False
+Template,1,True,False,True,False,False
+isGitHubUsernameValid,5,False,True,True,True,False
+isMediumUsernameValid,4,True,False,True,True,False
+isTwitterUsernameValid,4,False,False,True,True,False
+latestBlogs,2,True,False,True,True,False

@@ -1,0 +1,12 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+updateStateInfo,3,True,True,True,True,False
+updateStreamInfo,3,True,True,True,True,False
+setStreamSrc,3,True,True,True,True,False
+recordOrReplayStream,4,True,True,True,True,False
+recordStream,2,True,True,True,True,False
+replayStream,2,True,True,True,True,False
+stopStream,2,True,True,True,True,False
+createStreamElement,3,True,True,True,True,False
+onHlsLoaded,3,False,True,True,True,False
+onload,2,True,False,True,False,False
+onContentLoaded,3,True,True,True,True,False

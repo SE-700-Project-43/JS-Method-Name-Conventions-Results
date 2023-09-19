@@ -1,0 +1,16 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getIcons,get,True,VERB,3
+getIcons,Icons,True,NOUN,5
+exportAll,export,True,NOUN,6
+exportAll,All,True,PRON,3
+ensureWrite,ensure,True,VERB,6
+ensureWrite,Write,True,VERB,5
+ensureWriteJson,ensure,True,VERB,6
+ensureWriteJson,Write,True,VERB,5
+ensureWriteJson,Json,False,NOUN,4
+buildIcons,build,True,VERB,5
+buildIcons,Icons,True,NOUN,5
+buildExports,build,True,VERB,5
+buildExports,Exports,True,NOUN,7
+main,main,True,ADJ,4
+main,main,True,ADJ,4

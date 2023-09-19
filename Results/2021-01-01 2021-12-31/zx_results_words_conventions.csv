@@ -1,0 +1,6 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+toPOSIXPath,to,True,PART,2
+toPOSIXPath,POSIX,False,PROPN,5
+toPOSIXPath,Path,True,NOUN,4
+zx,zx,False,VERB,2
+log,log,True,VERB,3

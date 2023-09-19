@@ -1,0 +1,5 @@
+49098,884,./parser/test_scripts/drei/.storybook/public/draco-gltf/draco_decoder.js
+2387,358,./parser/test_scripts/drei/.storybook/public/draco-gltf/draco_wasm_wrapper.js
+20,0,./parser/test_scripts/drei/release.config.js
+91,2,./parser/test_scripts/drei/rollup.config.js
+7,0,./parser/test_scripts/drei/vite.config.js

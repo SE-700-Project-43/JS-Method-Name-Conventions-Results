@@ -1,0 +1,19 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+createPages,create,True,VERB,6
+createPages,Pages,True,NOUN,5
+Template,Template,True,NOUN,8
+isGitHubUsernameValid,is,True,AUX,2
+isGitHubUsernameValid,Git,True,NOUN,3
+isGitHubUsernameValid,Hub,True,VERB,3
+isGitHubUsernameValid,Username,True,NOUN,8
+isGitHubUsernameValid,Valid,True,ADJ,5
+isMediumUsernameValid,is,True,AUX,2
+isMediumUsernameValid,Medium,True,ADJ,6
+isMediumUsernameValid,Username,True,NOUN,8
+isMediumUsernameValid,Valid,True,ADJ,5
+isTwitterUsernameValid,is,True,AUX,2
+isTwitterUsernameValid,Twitter,True,NOUN,7
+isTwitterUsernameValid,Username,True,NOUN,8
+isTwitterUsernameValid,Valid,True,ADJ,5
+latestBlogs,latest,True,ADJ,6
+latestBlogs,Blogs,True,NOUN,5

@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+shortenAddress,2,True,True,True,True,False
+main,1,True,False,True,True,False
+runMain,2,True,True,True,True,False

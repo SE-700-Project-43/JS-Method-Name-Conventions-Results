@@ -1,0 +1,10 @@
+34,41,./parser/test_scripts/winbox/dist/js/winbox.min.js
+35,41,./parser/test_scripts/winbox/dist/winbox.bundle.min.js
+95,11,./parser/test_scripts/winbox/src/js/helper.js
+37,0,./parser/test_scripts/winbox/src/js/template.js
+61,0,./parser/test_scripts/winbox/src/js/webpack.js
+1374,39,./parser/test_scripts/winbox/src/js/winbox.js
+132,1,./parser/test_scripts/winbox/task/build.js
+57,0,./parser/test_scripts/winbox/task/bundle.js
+27,1,./parser/test_scripts/winbox/task/clean.js
+60,0,./parser/test_scripts/winbox/task/svgo.js

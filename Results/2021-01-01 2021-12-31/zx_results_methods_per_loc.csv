@@ -1,0 +1,9 @@
+207,1,./parser/test_scripts/zx/test/cli.test.js
+24,0,./parser/test_scripts/zx/test/experimental.test.js
+47,0,./parser/test_scripts/zx/test/extra.test.js
+16,0,./parser/test_scripts/zx/test/fixtures/js-project/script.js
+37,0,./parser/test_scripts/zx/test/global.test.js
+167,2,./parser/test_scripts/zx/test/goods.test.js
+58,0,./parser/test_scripts/zx/test/package.test.js
+96,0,./parser/test_scripts/zx/test/util.test.js
+46,0,./parser/test_scripts/zx/test/win32.test.js

@@ -1,0 +1,14 @@
+25,1,./parser/test_scripts/notion-zh_CN/apk/android.js
+48,2,./parser/test_scripts/notion-zh_CN/apk/android2.js
+1,2,./parser/test_scripts/notion-zh_CN/apk/android2.min.js
+28,1,./parser/test_scripts/notion-zh_CN/cookie.js
+1,0,./parser/test_scripts/notion-zh_CN/index.js
+19101,3,./parser/test_scripts/notion-zh_CN/notion-zh_CN.js
+19123,3,./parser/test_scripts/notion-zh_CN/notion-zh_TW.js
+2503,0,./parser/test_scripts/notion-zh_CN/script/en.js
+60,1,./parser/test_scripts/notion-zh_CN/script/fuzzySearchKeywords.js
+61,1,./parser/test_scripts/notion-zh_CN/script/main.js
+54,2,./parser/test_scripts/notion-zh_CN/util/syncAssestTW.js
+47,2,./parser/test_scripts/notion-zh_CN/util/translate.js
+47,2,./parser/test_scripts/notion-zh_CN/util/translateTW.js
+21,2,./parser/test_scripts/notion-zh_CN/util/writeJSON.js

@@ -1,0 +1,16 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+localizeHtmlPage,3,False,False,True,True,False
+createLink,2,True,True,True,True,False
+createRateBar,3,True,True,True,True,False
+sendVote,2,True,True,True,True,False
+likeClicked,2,True,True,True,True,False
+dislikeClicked,2,True,True,True,True,False
+addLikeDislikeEventListener,5,True,True,True,True,False
+storageChangeHandler,3,True,True,True,True,False
+handleDisableVoteSubmissionChangeEvent,6,True,True,True,True,False
+handleColoredThumbsChangeEvent,5,True,True,True,True,False
+handleColoredBarChangeEvent,5,True,True,True,True,False
+handleColorThemeChangeEvent,5,True,True,True,True,False
+handleNumberDisplayFormatChangeEvent,6,True,True,True,True,False
+handleNumberDisplayReformatLikesChangeEvent,7,True,True,True,True,False
+createStarRating,3,True,True,True,True,False
