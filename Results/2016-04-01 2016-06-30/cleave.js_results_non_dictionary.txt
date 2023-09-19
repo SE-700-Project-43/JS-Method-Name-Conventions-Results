@@ -1,0 +1,8 @@
+noop
+cwd
+ba
+da
+ga
+wa
+xa
+za

@@ -1,0 +1,13 @@
+2,0,./parser/test_scripts/react-loadable/babel.js
+11,1,./parser/test_scripts/react-loadable/example/client.js
+6,1,./parser/test_scripts/react-loadable/example/components/ExampleNested.js
+18,1,./parser/test_scripts/react-loadable/example/components/Loading.js
+58,0,./parser/test_scripts/react-loadable/example/server.js
+4,1,./parser/test_scripts/react-loadable/example/utils/delay.js
+96,0,./parser/test_scripts/react-loadable/src/babel.js
+61,2,./parser/test_scripts/react-loadable/src/webpack.js
+50,0,./parser/test_scripts/react-loadable/webpack.config.js
+2,0,./parser/test_scripts/react-loadable/webpack.js
+8,0,./parser/test_scripts/react-loadable/__fixtures__/component.es6.js
+6,2,./parser/test_scripts/react-loadable/__fixtures__/component.js
+281,4,./parser/test_scripts/react-loadable/__tests__/test.js

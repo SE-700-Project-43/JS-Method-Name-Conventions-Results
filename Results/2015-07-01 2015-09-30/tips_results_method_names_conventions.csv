@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+escapeStr,2,False,True,True,True,False
+render,1,True,True,True,True,False
+render,1,True,True,True,True,False

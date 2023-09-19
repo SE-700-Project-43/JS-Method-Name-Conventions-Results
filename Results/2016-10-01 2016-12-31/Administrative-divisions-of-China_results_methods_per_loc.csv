@@ -1,0 +1,9 @@
+16,0,./parser/test_scripts/Administrative-divisions-of-China/.eslintrc.js
+35,2,./parser/test_scripts/Administrative-divisions-of-China/lib/build.js
+157,6,./parser/test_scripts/Administrative-divisions-of-China/lib/crawler.js
+27,0,./parser/test_scripts/Administrative-divisions-of-China/lib/export.js
+16,1,./parser/test_scripts/Administrative-divisions-of-China/lib/fetch.js
+171,4,./parser/test_scripts/Administrative-divisions-of-China/lib/format.js
+72,1,./parser/test_scripts/Administrative-divisions-of-China/lib/sqlite.js
+261,6,./parser/test_scripts/Administrative-divisions-of-China/lib/worker.js
+214,1,./parser/test_scripts/Administrative-divisions-of-China/test/json.js

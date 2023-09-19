@@ -1,0 +1,13 @@
+87,1,./parser/test_scripts/react-motion/karma.conf.js
+74,2,./parser/test_scripts/react-motion/rollup.config.js
+24,0,./parser/test_scripts/react-motion/server.js
+8,0,./parser/test_scripts/react-motion/src/presets.js
+11,0,./parser/test_scripts/react-motion/src/react-motion.js
+14,1,./parser/test_scripts/react-motion/src/reorderKeys.js
+4,0,./parser/test_scripts/react-motion/test/index.js
+84,3,./parser/test_scripts/react-motion/test/mergeDiff-test.js
+557,3,./parser/test_scripts/react-motion/test/Motion-test.js
+349,3,./parser/test_scripts/react-motion/test/StaggeredMotion-test.js
+13,0,./parser/test_scripts/react-motion/test/stripStyle-test.js
+887,8,./parser/test_scripts/react-motion/test/TransitionMotion-test.js
+44,0,./parser/test_scripts/react-motion/webpack.config.js

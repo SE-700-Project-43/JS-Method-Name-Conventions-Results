@@ -1,0 +1,13 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+main,1,True,False,True,True,False
+ExampleNested,2,True,True,True,False,False
+Loading,1,True,True,True,False,False
+delay,1,True,False,True,True,False
+buildManifest,2,True,True,True,True,False
+getBundles,2,True,True,True,True,False
+Component,1,True,False,True,False,False
+Component,1,True,False,True,False,False
+waitFor,2,True,True,True,True,False
+createLoader,2,True,True,True,True,False
+MyLoadingComponent,3,True,True,True,False,False
+MyComponent,2,True,False,True,False,False

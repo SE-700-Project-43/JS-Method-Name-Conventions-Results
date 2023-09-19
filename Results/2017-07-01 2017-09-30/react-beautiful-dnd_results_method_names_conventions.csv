@@ -1,0 +1,6 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+loadStories,2,True,False,True,True,False
+exports,1,True,False,True,True,False
+excludeAllExternals,3,True,True,True,True,False
+getBabelOptions,3,True,True,True,True,False
+useStartupValidation,3,True,True,True,True,False

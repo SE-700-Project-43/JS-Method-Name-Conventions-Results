@@ -1,0 +1,16 @@
+__webpackDynamicImportURL,25,./parser/test_scripts/nginxconfig.io/src/nginxconfig/build/webpack-dynamic-import.js,30
+isBlock,7,./parser/test_scripts/nginxconfig.io/src/nginxconfig/generators/to_conf.js,29
+longestKey,10,./parser/test_scripts/nginxconfig.io/src/nginxconfig/generators/to_conf.js,34
+recurse,7,./parser/test_scripts/nginxconfig.io/src/nginxconfig/generators/to_conf.js,51
+merge,5,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/deep_merge.js,28
+categoriesExport,16,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/export_data.js,27
+getSslCertificate,17,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/get_ssl_certificate.js,27
+getSslCertificateKey,20,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/get_ssl_certificate.js,37
+applyCategories,15,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/import_data.js,34
+toSep,5,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/language_packs.js,31
+fromSep,7,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/language_packs.js,38
+getDomainAccessLog,18,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/logging.js,36
+getDomainErrorLog,17,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/logging.js,47
+resetText,9,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/prism_bundle.js,53
+emitEvent,9,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/prism_bundle.js,59
+copyToClipboard,15,./parser/test_scripts/nginxconfig.io/src/nginxconfig/util/prism_bundle.js,38

@@ -1,0 +1,10 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+tokenizer,1,True,False,True,True,False
+walk,1,True,True,True,True,False
+parser,1,True,False,True,True,False
+traverseArray,2,True,True,True,True,False
+traverseNode,2,True,True,True,True,False
+traverser,1,False,False,True,True,False
+transformer,1,True,False,True,True,False
+codeGenerator,2,True,False,True,True,False
+compiler,1,True,False,True,True,False

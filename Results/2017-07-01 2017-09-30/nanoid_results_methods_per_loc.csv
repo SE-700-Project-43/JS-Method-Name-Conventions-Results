@@ -1,0 +1,10 @@
+72,4,./parser/test_scripts/nanoid/index.browser.js
+87,5,./parser/test_scripts/nanoid/index.js
+1,1,./parser/test_scripts/nanoid/nanoid.js
+33,2,./parser/test_scripts/nanoid/non-secure/index.js
+101,4,./parser/test_scripts/nanoid/test/demo/index.js
+6,0,./parser/test_scripts/nanoid/test/demo/vite.config.js
+199,2,./parser/test_scripts/nanoid/test/index.test.js
+92,0,./parser/test_scripts/nanoid/test/non-secure.test.js
+34,0,./parser/test_scripts/nanoid/test/react-native-polyfill.test.js
+6,0,./parser/test_scripts/nanoid/url-alphabet/index.js

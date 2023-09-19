@@ -1,0 +1,7 @@
+App,3,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/App.js,5
+register,8,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/serviceWorker.js,23
+onstatechange,13,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/serviceWorker.js,66
+onupdatefound,13,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/serviceWorker.js,61
+registerValidSW,15,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/serviceWorker.js,57
+checkValidServiceWorker,23,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/serviceWorker.js,101
+unregister,10,./parser/test_scripts/reactjs-interview-questions/coding-exercise/src/serviceWorker.js,131

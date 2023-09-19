@@ -1,0 +1,4 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+escapeRegExp,escape,True,VERB,6
+escapeRegExp,Reg,True,NOUN,3
+escapeRegExp,Exp,True,PROPN,3

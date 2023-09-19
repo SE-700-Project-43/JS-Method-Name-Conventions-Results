@@ -1,0 +1,14 @@
+43,3,./parser/test_scripts/ReLaXed/src/builtin_plugins/chartjs/index.js
+52,2,./parser/test_scripts/ReLaXed/src/builtin_plugins/flowchart/index.js
+32,0,./parser/test_scripts/ReLaXed/src/builtin_plugins/index.js
+13,1,./parser/test_scripts/ReLaXed/src/builtin_plugins/katex/index.js
+22,2,./parser/test_scripts/ReLaXed/src/builtin_plugins/mathjax/index.js
+36,2,./parser/test_scripts/ReLaXed/src/builtin_plugins/mermaid/index.js
+14,2,./parser/test_scripts/ReLaXed/src/builtin_plugins/scss/index.js
+59,2,./parser/test_scripts/ReLaXed/src/builtin_plugins/table/index.js
+35,2,./parser/test_scripts/ReLaXed/src/builtin_plugins/vegalite/index.js
+199,6,./parser/test_scripts/ReLaXed/src/masterToPDF.js
+53,6,./parser/test_scripts/ReLaXed/src/parseLocals.js
+151,3,./parser/test_scripts/ReLaXed/src/plugins.js
+15,1,./parser/test_scripts/ReLaXed/test/samples/pug/local_plugin/say-my-name.plugin.js
+250,0,./parser/test_scripts/ReLaXed/test/test.js

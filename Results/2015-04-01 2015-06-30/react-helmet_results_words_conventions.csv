@@ -1,0 +1,9 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+normalizationBrowserName,normalization,True,NOUN,13
+normalizationBrowserName,Browser,True,NOUN,7
+normalizationBrowserName,Name,True,NOUN,4
+exports,exports,True,NOUN,7
+renderInvalid,render,True,VERB,6
+renderInvalid,Invalid,True,PROPN,7
+renderInvalid,render,True,VERB,6
+renderInvalid,Invalid,True,PROPN,7

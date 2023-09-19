@@ -1,0 +1,5 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+updateSearch,2,True,True,True,True,False
+onprogress,2,True,False,True,False,False
+onload,2,True,False,True,False,False
+setupSearch,2,True,False,True,True,False

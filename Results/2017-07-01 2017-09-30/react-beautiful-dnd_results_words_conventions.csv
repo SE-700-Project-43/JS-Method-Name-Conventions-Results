@@ -1,0 +1,13 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+loadStories,load,True,NOUN,4
+loadStories,Stories,True,NOUN,7
+exports,exports,True,NOUN,7
+excludeAllExternals,exclude,True,VERB,7
+excludeAllExternals,All,True,PRON,3
+excludeAllExternals,Externals,True,NOUN,9
+getBabelOptions,get,True,VERB,3
+getBabelOptions,Babel,True,PROPN,5
+getBabelOptions,Options,True,NOUN,7
+useStartupValidation,use,True,VERB,3
+useStartupValidation,Startup,True,VERB,7
+useStartupValidation,Validation,True,NOUN,10

@@ -1,0 +1,14 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+fx,fx,False,PROPN,2
+globalListener,global,True,ADJ,6
+globalListener,Listener,True,PROPN,8
+on,on,True,ADP,2
+tag,tag,True,VERB,3
+tag,tag,True,VERB,3
+timeout,timeout,True,NOUN,7
+interval,interval,True,NOUN,8
+getTime,get,True,VERB,3
+getTime,Time,True,NOUN,4
+every,every,True,PRON,5
+delay,delay,True,NOUN,5
+now,now,True,ADV,3

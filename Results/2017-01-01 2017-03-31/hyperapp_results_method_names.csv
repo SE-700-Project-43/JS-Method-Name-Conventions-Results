@@ -1,0 +1,11 @@
+fx,2,./parser/test_scripts/hyperapp/packages/events/index.js,3
+globalListener,14,./parser/test_scripts/hyperapp/packages/events/index.js,5
+on,2,./parser/test_scripts/hyperapp/packages/events/index.js,10
+tag,3,./parser/test_scripts/hyperapp/packages/html/index.js,6
+tag,3,./parser/test_scripts/hyperapp/packages/svg/index.js,6
+timeout,7,./parser/test_scripts/hyperapp/packages/time/index.js,1
+interval,8,./parser/test_scripts/hyperapp/packages/time/index.js,4
+getTime,7,./parser/test_scripts/hyperapp/packages/time/index.js,11
+every,5,./parser/test_scripts/hyperapp/packages/time/index.js,22
+delay,5,./parser/test_scripts/hyperapp/packages/time/index.js,28
+now,3,./parser/test_scripts/hyperapp/packages/time/index.js,34

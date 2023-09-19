@@ -1,0 +1,6 @@
+38,0,./parser/test_scripts/snapdrop/client/scripts/clipboard.js
+529,11,./parser/test_scripts/snapdrop/client/scripts/network.js
+37,0,./parser/test_scripts/snapdrop/client/scripts/theme.js
+645,12,./parser/test_scripts/snapdrop/client/scripts/ui.js
+58,0,./parser/test_scripts/snapdrop/client/service-worker.js
+293,0,./parser/test_scripts/snapdrop/server/index.js

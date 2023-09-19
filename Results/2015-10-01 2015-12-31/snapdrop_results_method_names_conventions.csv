@@ -1,0 +1,22 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+onopen,2,True,True,True,False,False
+onmessage,2,True,False,True,False,False
+onclose,2,True,True,True,False,False
+onerror,2,True,False,True,False,False
+ondatachannel,3,True,False,True,False,False
+onicecandidate,3,True,False,True,False,False
+onconnectionstatechange,4,True,True,True,False,False
+oniceconnectionstatechange,5,True,True,True,False,False
+onopen,2,True,True,True,False,False
+onmessage,2,True,False,True,False,False
+onclose,2,True,True,True,False,False
+isURL,2,False,False,True,True,False
+onload,2,True,False,True,False,False
+visibilitychangeHandler,3,True,True,True,False,False
+onclick,2,True,True,True,False,False
+init,1,False,False,True,True,False
+drawCircle,2,True,True,True,True,False
+drawCircles,2,True,True,True,True,False
+animate,1,True,True,True,True,False
+animateBackground,2,True,True,True,True,False
+onclick,2,True,True,True,False,False

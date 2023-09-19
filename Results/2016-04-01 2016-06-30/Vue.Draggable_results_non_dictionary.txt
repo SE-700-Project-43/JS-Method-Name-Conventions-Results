@@ -1,0 +1,6 @@
+fn
+iterable
+vm
+vuedraggable
+potencial
+draggable

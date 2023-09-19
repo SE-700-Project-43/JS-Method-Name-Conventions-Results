@@ -1,0 +1,6 @@
+exports,7,./parser/test_scripts/immer/ignoreObseleteSnapshots.js,1
+runTests,8,./parser/test_scripts/immer/__tests__/frozen.js,16
+runTests,8,./parser/test_scripts/immer/__tests__/manual.js,17
+produce,7,./parser/test_scripts/immer/__tests__/map-set.js,34
+createPatchedImmer,18,./parser/test_scripts/immer/__tests__/map-set.js,30
+runBaseTest,11,./parser/test_scripts/immer/__tests__/map-set.js,22

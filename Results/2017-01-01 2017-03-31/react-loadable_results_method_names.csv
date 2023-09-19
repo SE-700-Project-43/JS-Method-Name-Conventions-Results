@@ -1,0 +1,12 @@
+main,4,./parser/test_scripts/react-loadable/example/client.js,6
+ExampleNested,13,./parser/test_scripts/react-loadable/example/components/ExampleNested.js,3
+Loading,7,./parser/test_scripts/react-loadable/example/components/Loading.js,3
+delay,5,./parser/test_scripts/react-loadable/example/utils/delay.js,1
+buildManifest,13,./parser/test_scripts/react-loadable/src/webpack.js,4
+getBundles,10,./parser/test_scripts/react-loadable/src/webpack.js,53
+Component,9,./parser/test_scripts/react-loadable/__fixtures__/component.js,3
+Component,9,./parser/test_scripts/react-loadable/__fixtures__/component.js,3
+waitFor,7,./parser/test_scripts/react-loadable/__tests__/test.js,8
+createLoader,12,./parser/test_scripts/react-loadable/__tests__/test.js,14
+MyLoadingComponent,18,./parser/test_scripts/react-loadable/__tests__/test.js,26
+MyComponent,11,./parser/test_scripts/react-loadable/__tests__/test.js,30

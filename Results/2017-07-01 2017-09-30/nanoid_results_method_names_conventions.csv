@@ -1,0 +1,19 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+random,1,True,False,True,True,False
+customRandom,2,True,False,True,True,False
+customAlphabet,2,True,False,True,True,False
+nanoid,1,False,True,True,True,False
+fillPool,2,True,True,True,True,False
+random,1,True,False,True,True,False
+customRandom,2,True,False,True,True,False
+customAlphabet,2,True,False,True,True,False
+nanoid,1,False,True,True,True,False
+nanoid,1,False,True,True,True,False
+customAlphabet,2,True,False,True,True,False
+nanoid,1,False,True,True,True,False
+print,1,True,False,True,True,False
+printDistr,2,False,False,True,True,False
+calcDistr,2,False,False,True,True,False
+run,1,True,True,True,True,False
+fakeRandom,2,True,False,True,True,False
+makeProxyNumberToReproducePreviousID,7,False,True,True,True,False

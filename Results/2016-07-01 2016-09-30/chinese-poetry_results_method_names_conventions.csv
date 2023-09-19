@@ -1,0 +1,25 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+format,1,True,False,True,True,False
+checkGoogle,2,True,True,True,True,False
+sleep,1,True,False,True,True,False
+request,1,True,False,True,True,False
+task,1,True,False,True,True,False
+singleWork,2,True,True,True,True,False
+check,1,True,True,True,True,False
+work,1,True,False,True,True,False
+ciTask,2,True,False,True,True,False
+task,1,True,False,True,True,False
+singleWork,2,True,True,True,True,False
+check,1,True,True,True,True,False
+work,1,True,False,True,True,False
+poetTask,2,True,False,True,True,False
+task,1,True,False,True,True,False
+singleWork,2,True,True,True,True,False
+check,1,True,True,True,True,False
+work,1,True,False,True,True,False
+runLessNumberTask,4,False,True,True,True,False
+split,1,True,True,True,True,False
+mergeCi,2,False,True,True,True,False
+mergePoet,2,True,True,True,True,False
+outputBingNumbers,3,False,True,True,True,False
+splitStrains,2,True,True,True,True,False

@@ -1,0 +1,22 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+exports,1,True,False,True,True,False
+external,1,True,False,True,True,False
+getBabelOptions,3,True,True,True,True,False
+reorderKeys,2,True,False,True,True,False
+id,1,False,False,True,True,False
+n,1,True,False,False,True,False
+test,1,True,False,True,True,False
+kill,1,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
+kill,1,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
+kill,1,True,True,True,True,False
+kill,1,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
+setState,2,True,True,True,True,False
