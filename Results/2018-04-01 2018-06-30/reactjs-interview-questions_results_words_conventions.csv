@@ -1,0 +1,16 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+App,App,True,PROPN,3
+register,register,True,VERB,8
+onstatechange,on,True,ADP,2
+onstatechange,state,True,NOUN,5
+onstatechange,change,True,VERB,6
+onupdatefound,onupdate,False,VERB,8
+onupdatefound,found,True,VERB,5
+registerValidSW,register,True,VERB,8
+registerValidSW,Valid,True,ADJ,5
+registerValidSW,SW,True,NOUN,2
+checkValidServiceWorker,check,True,VERB,5
+checkValidServiceWorker,Valid,True,ADJ,5
+checkValidServiceWorker,Service,True,NOUN,7
+checkValidServiceWorker,Worker,True,PROPN,6
+unregister,unregister,False,NOUN,10

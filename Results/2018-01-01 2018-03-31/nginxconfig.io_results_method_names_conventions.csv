@@ -1,0 +1,17 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+__webpackDynamicImportURL,5,False,True,True,False,False
+isBlock,2,True,True,True,True,False
+longestKey,2,True,False,True,True,False
+recurse,1,False,False,True,True,False
+merge,1,True,True,True,True,False
+categoriesExport,2,True,False,True,True,False
+getSslCertificate,3,False,True,True,True,False
+getSslCertificateKey,4,False,True,True,True,False
+applyCategories,2,True,True,True,True,False
+toSep,2,False,False,True,True,False
+fromSep,2,False,False,True,True,False
+getDomainAccessLog,4,True,True,True,True,False
+getDomainErrorLog,4,True,True,True,True,False
+resetText,2,True,True,True,True,False
+emitEvent,2,True,True,True,True,False
+copyToClipboard,3,True,False,True,True,False

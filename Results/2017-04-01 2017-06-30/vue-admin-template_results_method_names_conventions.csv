@@ -1,0 +1,26 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+send,1,True,True,True,True,False
+XHR2ExpressReqWrap,5,False,True,False,False,False
+mockXHR,2,False,False,True,True,False
+registerRoutes,2,True,True,True,True,False
+unregisterRoutes,2,True,False,True,True,False
+responseFake,2,True,True,True,True,False
+exports,1,True,False,True,True,False
+param2Obj,3,False,True,False,False,False
+getList,2,True,True,True,True,False
+login,1,True,True,True,True,False
+getInfo,2,True,True,True,True,False
+logout,1,True,True,True,True,False
+requireAll,2,True,True,True,True,False
+handleMouseleave,3,True,True,True,False,False
+getDefaultState,3,True,True,True,True,False
+getToken,2,True,True,True,True,False
+setToken,2,True,True,True,True,False
+removeToken,2,True,True,True,True,False
+getPageTitle,3,True,True,True,True,False
+parseTime,2,True,True,True,True,False
+formatTime,2,True,False,True,True,False
+param2Obj,3,False,True,False,False,False
+isExternal,2,True,False,True,True,False
+validUsername,2,True,False,True,True,False
+resolve,1,True,True,True,True,False

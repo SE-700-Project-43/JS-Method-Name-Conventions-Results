@@ -1,0 +1,11 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+setLineLength,set,True,VERB,3
+setLineLength,Line,True,NOUN,4
+setLineLength,Length,True,NOUN,6
+progress,progress,True,NOUN,8
+status,status,True,NOUN,6
+error,error,True,NOUN,5
+warn,warn,True,VERB,4
+updateStatus,update,True,VERB,6
+updateStatus,Status,True,NOUN,6
+command,command,True,VERB,7

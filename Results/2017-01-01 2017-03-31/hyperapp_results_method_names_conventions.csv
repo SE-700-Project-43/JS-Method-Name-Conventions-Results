@@ -1,0 +1,12 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+fx,1,False,False,True,True,False
+globalListener,2,True,False,True,True,False
+on,1,True,False,True,True,False
+tag,1,True,True,True,True,False
+tag,1,True,True,True,True,False
+timeout,1,True,False,True,True,False
+interval,1,True,False,True,True,False
+getTime,2,True,True,True,True,False
+every,1,True,False,True,True,False
+delay,1,True,False,True,True,False
+now,1,True,False,True,True,False

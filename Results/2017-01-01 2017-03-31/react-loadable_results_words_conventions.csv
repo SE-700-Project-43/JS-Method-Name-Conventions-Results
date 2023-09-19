@@ -1,0 +1,21 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+main,main,True,ADJ,4
+ExampleNested,Example,True,NOUN,7
+ExampleNested,Nested,True,VERB,6
+Loading,Loading,True,VERB,7
+delay,delay,True,NOUN,5
+buildManifest,build,True,VERB,5
+buildManifest,Manifest,True,ADJ,8
+getBundles,get,True,VERB,3
+getBundles,Bundles,True,NOUN,7
+Component,Component,True,NOUN,9
+Component,Component,True,NOUN,9
+waitFor,wait,True,VERB,4
+waitFor,For,True,ADP,3
+createLoader,create,True,VERB,6
+createLoader,Loader,True,PROPN,6
+MyLoadingComponent,My,True,PRON,2
+MyLoadingComponent,Loading,True,VERB,7
+MyLoadingComponent,Component,True,NOUN,9
+MyComponent,My,True,PRON,2
+MyComponent,Component,True,NOUN,9

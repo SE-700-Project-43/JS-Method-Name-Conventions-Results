@@ -1,0 +1,13 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+tokenizer,tokenizer,False,NOUN,9
+walk,walk,True,VERB,4
+parser,parser,True,NOUN,6
+traverseArray,traverse,True,VERB,8
+traverseArray,Array,True,VERB,5
+traverseNode,traverse,True,VERB,8
+traverseNode,Node,True,NOUN,4
+traverser,traverser,True,NOUN,9
+transformer,transformer,True,PROPN,11
+codeGenerator,code,True,NOUN,4
+codeGenerator,Generator,True,NOUN,9
+compiler,compiler,True,NOUN,8

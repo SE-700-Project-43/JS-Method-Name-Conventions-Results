@@ -1,0 +1,16 @@
+890,62,./parser/test_scripts/clipboard.js/dist/clipboard.js
+7,28,./parser/test_scripts/clipboard.js/dist/clipboard.min.js
+37,1,./parser/test_scripts/clipboard.js/karma.conf.js
+13,0,./parser/test_scripts/clipboard.js/package.js
+16,1,./parser/test_scripts/clipboard.js/src/actions/cut.js
+54,1,./parser/test_scripts/clipboard.js/src/actions/default.js
+166,1,./parser/test_scripts/clipboard.js/src/clipboard.js
+13,1,./parser/test_scripts/clipboard.js/src/common/command.js
+27,1,./parser/test_scripts/clipboard.js/src/common/create-fake-element.js
+70,0,./parser/test_scripts/clipboard.js/test/actions/copy.js
+33,0,./parser/test_scripts/clipboard.js/test/actions/cut.js
+81,0,./parser/test_scripts/clipboard.js/test/actions/default.js
+193,1,./parser/test_scripts/clipboard.js/test/clipboard.js
+50,0,./parser/test_scripts/clipboard.js/test/common/command.js
+14,0,./parser/test_scripts/clipboard.js/test/common/create-fake-element.js
+47,0,./parser/test_scripts/clipboard.js/webpack.config.js

@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+copyFile,2,True,True,True,True,False
+Home,1,True,False,True,False,False
+Users,1,True,False,True,False,False

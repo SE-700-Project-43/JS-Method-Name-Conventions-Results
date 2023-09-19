@@ -1,0 +1,9 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+updateSearch,update,True,VERB,6
+updateSearch,Search,True,NOUN,6
+onprogress,on,True,ADP,2
+onprogress,progress,True,NOUN,8
+onload,on,True,ADP,2
+onload,load,True,NOUN,4
+setupSearch,setup,True,NOUN,5
+setupSearch,Search,True,NOUN,6

@@ -1,0 +1,7 @@
+setLineLength,13,./parser/test_scripts/brave-browser/lib/logging.js,11
+progress,8,./parser/test_scripts/brave-browser/lib/logging.js,25
+status,6,./parser/test_scripts/brave-browser/lib/logging.js,29
+error,5,./parser/test_scripts/brave-browser/lib/logging.js,33
+warn,4,./parser/test_scripts/brave-browser/lib/logging.js,37
+updateStatus,12,./parser/test_scripts/brave-browser/lib/logging.js,41
+command,7,./parser/test_scripts/brave-browser/lib/logging.js,48

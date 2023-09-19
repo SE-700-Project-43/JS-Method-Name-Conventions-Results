@@ -1,0 +1,16 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+foo,foo,True,NOUN,3
+print,print,True,NOUN,5
+main,main,True,ADJ,4
+getProfile,get,True,VERB,3
+getProfile,Profile,True,VERB,7
+User,User,True,NOUN,4
+getProfile,get,True,VERB,3
+getProfile,Profile,True,VERB,7
+User,User,True,NOUN,4
+f,f,True,X,1
+Vehicle,Vehicle,True,NOUN,7
+Vehicle,Vehicle,True,NOUN,7
+foo,foo,True,NOUN,3
+superAob,super,True,X,5
+superAob,Aob,False,ADV,3

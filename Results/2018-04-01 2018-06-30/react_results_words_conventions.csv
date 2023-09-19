@@ -1,0 +1,5 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+copyFile,copy,True,NOUN,4
+copyFile,File,True,VERB,4
+Home,Home,True,NOUN,4
+Users,Users,True,NOUN,5

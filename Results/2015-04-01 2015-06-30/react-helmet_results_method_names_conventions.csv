@@ -1,0 +1,5 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+normalizationBrowserName,3,True,False,True,True,False
+exports,1,True,False,True,True,False
+renderInvalid,2,True,True,True,True,False
+renderInvalid,2,True,True,True,True,False

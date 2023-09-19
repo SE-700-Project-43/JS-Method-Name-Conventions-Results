@@ -1,0 +1,9 @@
+28,1,./parser/test_scripts/CyberChef/babel.config.js
+434,4,./parser/test_scripts/CyberChef/Gruntfile.js
+10,0,./parser/test_scripts/CyberChef/postcss.config.js
+18,0,./parser/test_scripts/CyberChef/src/web/stylesheets/index.js
+262,1,./parser/test_scripts/CyberChef/tests/browser/00_nightwatch.js
+705,0,./parser/test_scripts/CyberChef/tests/browser/01_io.js
+248,11,./parser/test_scripts/CyberChef/tests/browser/browserUtils.js
+33,0,./parser/test_scripts/CyberChef/tests/node/consumers/cjs-consumer.js
+223,0,./parser/test_scripts/CyberChef/webpack.config.js

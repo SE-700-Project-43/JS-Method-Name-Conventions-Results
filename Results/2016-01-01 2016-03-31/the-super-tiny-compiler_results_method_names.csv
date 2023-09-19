@@ -1,0 +1,9 @@
+tokenizer,9,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,381
+walk,4,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,562
+parser,6,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,555
+traverseArray,13,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,747
+traverseNode,12,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,755
+traverser,9,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,743
+transformer,11,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,858
+codeGenerator,13,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,961
+compiler,8,./parser/test_scripts/the-super-tiny-compiler/the-super-tiny-compiler.js,1028

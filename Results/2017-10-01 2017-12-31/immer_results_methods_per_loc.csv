@@ -1,0 +1,13 @@
+7,1,./parser/test_scripts/immer/ignoreObseleteSnapshots.js
+17,0,./parser/test_scripts/immer/jest.config.build.js
+16,0,./parser/test_scripts/immer/jest.config.build.snapshots.js
+9,0,./parser/test_scripts/immer/jest.config.js
+106,0,./parser/test_scripts/immer/website/docusaurus.config.js
+34,0,./parser/test_scripts/immer/website/sidebars.js
+267,1,./parser/test_scripts/immer/__tests__/frozen.js
+8,0,./parser/test_scripts/immer/__tests__/isDraftable.js
+152,1,./parser/test_scripts/immer/__tests__/manual.js
+366,3,./parser/test_scripts/immer/__tests__/map-set.js
+12,0,./parser/test_scripts/immer/__tests__/null.js
+58,0,./parser/test_scripts/immer/__tests__/original.js
+30,0,./parser/test_scripts/immer/__tests__/plugins.js

@@ -1,0 +1,26 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+createDefaultConfig,3,True,True,True,True,False
+onInitSegment,3,False,False,True,True,False
+onMediaSegment,3,True,False,True,True,False
+onLoadingComplete,3,True,True,True,True,False
+onRecoveredEarlyEof,4,False,True,True,True,False
+onMediaInfo,3,True,False,True,True,False
+onMetaDataArrived,4,False,True,True,True,False
+onScriptDataArrived,4,True,True,True,True,False
+onStatisticsInfo,3,True,False,True,True,False
+onIOError,3,False,False,True,True,False
+onDemuxError,3,False,False,True,True,False
+onRecommendSeekpoint,4,True,True,True,False,False
+onLogcatCallback,4,True,True,True,False,False
+TransmuxingWorker,2,False,True,True,False,False
+Swap16,1,True,False,True,False,False
+Swap32,1,True,False,True,False,False
+ReadBig32,2,True,True,True,False,False
+createPlayer,2,True,True,True,True,False
+isSupported,2,True,True,True,True,False
+getFeatureList,3,True,True,True,True,False
+onload,2,True,False,True,False,False
+detect,1,True,True,True,True,False
+checkContinuation,2,True,True,True,True,False
+decodeUTF8,2,True,True,True,True,False
+exports,1,True,False,True,True,False

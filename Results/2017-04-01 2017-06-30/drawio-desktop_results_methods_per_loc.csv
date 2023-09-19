@@ -1,0 +1,5 @@
+20,2,./parser/test_scripts/drawio-desktop/build/notarize.js
+10,0,./parser/test_scripts/drawio-desktop/preload.js
+6,0,./parser/test_scripts/drawio-desktop/src/main/disableUpdate.js
+80,0,./parser/test_scripts/drawio-desktop/src/main/electron-preload.js
+17,0,./parser/test_scripts/drawio-desktop/sync.js
