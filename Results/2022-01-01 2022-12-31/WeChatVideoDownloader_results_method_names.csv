@@ -1,0 +1,7 @@
+checkCertInstalled,18,./parser/test_scripts/WeChatVideoDownloader/electron/cert.js,8
+installCert,11,./parser/test_scripts/WeChatVideoDownloader/electron/cert.js,12
+createWindow,12,./parser/test_scripts/WeChatVideoDownloader/electron/index.js,10
+startServer,11,./parser/test_scripts/WeChatVideoDownloader/electron/proxyServer.js,14
+setProxy,8,./parser/test_scripts/WeChatVideoDownloader/electron/setProxy.js,7
+closeProxy,10,./parser/test_scripts/WeChatVideoDownloader/electron/setProxy.js,45
+getMacAvailableNetworks,23,./parser/test_scripts/WeChatVideoDownloader/electron/setProxy.js,79

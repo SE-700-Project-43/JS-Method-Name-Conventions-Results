@@ -1,0 +1,24 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+filesInDirectory,3,True,False,True,True,False
+timestampForFilesInDirectory,5,True,False,True,True,False
+watchChanges,2,True,True,True,True,False
+searchLoop,2,True,False,True,True,False
+getItem,2,True,True,True,True,False
+getItem,2,True,True,True,True,False
+_parent,1,True,False,True,True,False
+_id,1,False,False,True,True,False
+_sl,1,False,True,True,True,False
+_ev,1,False,False,True,True,False
+_chain,1,True,False,True,True,False
+_if,1,True,False,True,True,False
+_if_else,2,True,False,True,False,False
+getSelector,2,True,True,True,True,False
+searchLoop,2,True,False,True,True,False
+getE,2,True,True,False,True,False
+_sl,1,False,True,True,True,False
+searchEmbeds,2,True,False,True,True,False
+reloadMenu,2,True,False,True,True,False
+switchMenu,2,True,True,True,True,False
+translate,1,True,True,True,True,False
+saveOptions,2,True,True,True,True,False
+restoreOptions,2,True,True,True,True,False

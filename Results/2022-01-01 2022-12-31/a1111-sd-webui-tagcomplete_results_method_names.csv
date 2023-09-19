@@ -1,0 +1,14 @@
+CHANT_TRIGGER,13,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_chants.js,2
+filterCondition,15,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_chants.js,10
+load,4,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_chants.js,30
+sanitize,8,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_chants.js,42
+UMI_TRIGGER,11,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,4
+insertAt,8,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,14
+clean,5,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,33
+filteredWildcards,17,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,76
+baseFilter,10,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,140
+spaceIncludeFilter,18,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,141
+updateUmiTags,13,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,191
+load,4,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,210
+sanitize,8,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/ext_umi.js,231
+getCaretCoordinates,19,./parser/test_scripts/a1111-sd-webui-tagcomplete/javascript/_caretPosition.js,52

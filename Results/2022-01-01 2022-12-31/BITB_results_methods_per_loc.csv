@@ -1,0 +1,5 @@
+60,3,./parser/test_scripts/BITB/MacOS-Chrome-DarkMode/script.js
+60,3,./parser/test_scripts/BITB/MacOS-Chrome-LightMode/script.js
+92,9,./parser/test_scripts/BITB/Windows-Chrome-DarkMode/script.js
+92,9,./parser/test_scripts/BITB/Windows-Chrome-LightMode/script.js
+98,9,./parser/test_scripts/BITB/Windows-DarkMode-Delay/script.js

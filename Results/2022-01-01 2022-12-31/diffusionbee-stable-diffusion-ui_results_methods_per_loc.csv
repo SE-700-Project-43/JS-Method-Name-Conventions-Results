@@ -1,0 +1,16 @@
+35,1,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/afterSignHook.js
+6,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/babel.config.js
+183,2,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/background.js
+161,2,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/bridge.js
+189,7,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/clip_tokeniser/clip_encoder.js
+2287,5,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/clip_tokeniser/html_entities.js
+65,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/init_vue_libs.js
+19,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/main.js
+14,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/main_demoui.js
+75,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/menu_template.js
+11,2,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/native_functions_vue_bridge.js
+39,1,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/preload.js
+97,7,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/py_vue_bridge.js
+25,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/stable_diffusion_bridge.js
+171,10,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/src/utils.js
+62,0,./parser/test_scripts/diffusionbee-stable-diffusion-ui/electron_app/vue.config.js

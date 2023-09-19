@@ -1,0 +1,15 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+rootHead,root,True,NOUN,4
+rootHead,Head,True,VERB,4
+fetchGitHubStars,fetch,True,VERB,5
+fetchGitHubStars,Git,True,NOUN,3
+fetchGitHubStars,Hub,True,VERB,3
+fetchGitHubStars,Stars,True,NOUN,5
+RootLayout,Root,True,VERB,4
+RootLayout,Layout,True,NOUN,6
+head,head,True,NOUN,4
+handler,handler,True,NOUN,7
+fetchPost,fetch,True,VERB,5
+fetchPost,Post,True,NOUN,4
+listPosts,list,True,NOUN,4
+listPosts,Posts,True,NOUN,5

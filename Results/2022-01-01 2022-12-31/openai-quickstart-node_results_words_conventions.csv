@@ -1,0 +1,6 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+generatePrompt,generate,True,VERB,8
+generatePrompt,Prompt,True,PROPN,6
+onSubmit,on,True,ADP,2
+onSubmit,Submit,True,VERB,6
+Home,Home,True,NOUN,4

@@ -1,0 +1,6 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+getFilename,2,True,True,True,True,False
+getSourceFilename,3,True,True,True,True,False
+pluginWebpackCompat,4,False,True,True,False,False
+pluginWebpackCompat,4,False,True,True,False,False
+getJestProjects,3,True,True,True,True,False

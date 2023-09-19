@@ -1,0 +1,13 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+_0x2385,0x2385,False,PROPN,6
+runoob,run,True,VERB,3
+runoob,oob,False,PROPN,3
+_0xb1b3,0xb1b3,False,PROPN,6
+setQueryString,set,True,VERB,3
+setQueryString,Query,True,NOUN,5
+setQueryString,String,True,NOUN,6
+getWeatherData,get,True,VERB,3
+getWeatherData,Weather,True,NOUN,7
+getWeatherData,Data,True,NOUN,4
+showNotification,show,True,VERB,4
+showNotification,Notification,True,NOUN,12

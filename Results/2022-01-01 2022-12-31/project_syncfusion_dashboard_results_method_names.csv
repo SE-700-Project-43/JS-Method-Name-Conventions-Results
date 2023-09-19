@@ -1,0 +1,8 @@
+App,3,./parser/test_scripts/project_syncfusion_dashboard/src/App.js,12
+gridOrderImage,14,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,26
+gridOrderStatus,15,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,36
+gridEmployeeProfile,19,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,64
+gridEmployeeCountry,19,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,75
+EditorData,10,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,81
+customerGridImage,17,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,123
+customerGridStatus,18,./parser/test_scripts/project_syncfusion_dashboard/src/data/dummy.js,137

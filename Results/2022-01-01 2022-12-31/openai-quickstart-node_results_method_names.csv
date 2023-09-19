@@ -1,0 +1,3 @@
+generatePrompt,14,./parser/test_scripts/openai-quickstart-node/pages/api/generate.js,51
+onSubmit,8,./parser/test_scripts/openai-quickstart-node/pages/index.js,9
+Home,4,./parser/test_scripts/openai-quickstart-node/pages/index.js,5

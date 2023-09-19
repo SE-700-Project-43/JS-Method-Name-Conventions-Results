@@ -1,0 +1,6 @@
+cpu
+sha256
+minecraft
+ada
+api
+qnap

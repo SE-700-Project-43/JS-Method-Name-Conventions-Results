@@ -1,0 +1,7 @@
+rootHead,8,./parser/test_scripts/preguntas-entrevista-react/app/head.js,3
+fetchGitHubStars,16,./parser/test_scripts/preguntas-entrevista-react/app/layout.js,10
+RootLayout,10,./parser/test_scripts/preguntas-entrevista-react/app/layout.js,16
+head,4,./parser/test_scripts/preguntas-entrevista-react/app/[post]/head.js,4
+handler,7,./parser/test_scripts/preguntas-entrevista-react/pages/api/search.js,5
+fetchPost,9,./parser/test_scripts/preguntas-entrevista-react/utils/posts.js,6
+listPosts,9,./parser/test_scripts/preguntas-entrevista-react/utils/posts.js,16

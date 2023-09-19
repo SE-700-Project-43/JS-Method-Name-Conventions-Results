@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+generatePrompt,2,True,True,True,True,False
+onSubmit,2,True,True,True,True,False
+Home,1,True,False,True,False,False

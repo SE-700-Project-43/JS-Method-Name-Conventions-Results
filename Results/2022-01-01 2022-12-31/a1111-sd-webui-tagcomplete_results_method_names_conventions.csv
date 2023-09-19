@@ -1,0 +1,15 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+CHANT_TRIGGER,2,True,False,True,False,True
+filterCondition,2,True,True,True,True,False
+load,1,True,False,True,True,False
+sanitize,1,True,True,True,True,False
+UMI_TRIGGER,2,False,False,True,False,True
+insertAt,2,True,False,True,True,False
+clean,1,True,True,True,True,False
+filteredWildcards,2,True,True,True,True,False
+baseFilter,2,True,False,True,True,False
+spaceIncludeFilter,3,True,True,True,True,False
+updateUmiTags,3,False,True,True,True,False
+load,1,True,False,True,True,False
+sanitize,1,True,True,True,True,False
+getCaretCoordinates,3,True,True,True,True,False

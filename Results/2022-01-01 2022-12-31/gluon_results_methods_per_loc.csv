@@ -1,0 +1,11 @@
+34,0,./parser/test_scripts/gluon/src/api/page.js
+81,4,./parser/test_scripts/gluon/src/api/resources.js
+100,1,./parser/test_scripts/gluon/src/browser/firefox.js
+24,3,./parser/test_scripts/gluon/src/extensions.js
+36,1,./parser/test_scripts/gluon/src/launcher/start.js
+163,5,./parser/test_scripts/gluon/src/lib/browserPaths.js
+31,0,./parser/test_scripts/gluon/src/lib/local/cdp.js
+46,1,./parser/test_scripts/gluon/src/lib/local/fulfill.js
+19,0,./parser/test_scripts/gluon/src/lib/local/http.js
+6,4,./parser/test_scripts/gluon/src/lib/logger.js
+131,0,./parser/test_scripts/gluon/src/menus/about.js

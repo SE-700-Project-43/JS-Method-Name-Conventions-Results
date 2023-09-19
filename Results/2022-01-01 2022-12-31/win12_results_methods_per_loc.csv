@@ -1,0 +1,8 @@
+166,0,./parser/test_scripts/win12/data/tasks.js
+2,163,./parser/test_scripts/win12/jq.min.js
+127,2,./parser/test_scripts/win12/module/tab.js
+151,7,./parser/test_scripts/win12/scripts/bios_kernel.js
+44,4,./parser/test_scripts/win12/scripts/boot_kernel.js
+129,0,./parser/test_scripts/win12/scripts/calculator_kernel.js
+32,1,./parser/test_scripts/win12/scripts/setting_getTime.js
+174,1,./parser/test_scripts/win12/sw.js

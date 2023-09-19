@@ -1,0 +1,6 @@
+jdk
+consts
+adb
+promisified
+vanced
+apk

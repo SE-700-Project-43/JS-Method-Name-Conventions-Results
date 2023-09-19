@@ -1,0 +1,7 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+_0x2385,1,True,False,True,False,False
+runoob,2,False,True,True,False,False
+_0xb1b3,1,True,False,True,False,False
+setQueryString,3,True,True,True,True,False
+getWeatherData,3,True,True,True,True,False
+showNotification,2,True,True,True,True,False

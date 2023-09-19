@@ -1,0 +1,8 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+rootHead,2,True,True,True,True,False
+fetchGitHubStars,4,False,True,True,True,False
+RootLayout,2,True,True,True,False,False
+head,1,True,False,True,True,False
+handler,1,True,False,True,True,False
+fetchPost,2,True,True,True,True,False
+listPosts,2,True,False,True,True,False

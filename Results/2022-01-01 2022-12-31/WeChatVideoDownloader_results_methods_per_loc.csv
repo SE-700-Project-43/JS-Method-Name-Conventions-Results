@@ -1,0 +1,8 @@
+18,0,./parser/test_scripts/WeChatVideoDownloader/config-overrides.js
+50,2,./parser/test_scripts/WeChatVideoDownloader/electron/cert.js
+38,0,./parser/test_scripts/WeChatVideoDownloader/electron/const.js
+50,1,./parser/test_scripts/WeChatVideoDownloader/electron/index.js
+65,1,./parser/test_scripts/WeChatVideoDownloader/electron/proxyServer.js
+110,3,./parser/test_scripts/WeChatVideoDownloader/electron/setProxy.js
+13,0,./parser/test_scripts/WeChatVideoDownloader/src/index.js
+19,0,./parser/test_scripts/WeChatVideoDownloader/webpack.electron.js

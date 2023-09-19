@@ -1,0 +1,14 @@
+219,5,./parser/test_scripts/SysMocap/mocap/mocap.js
+28,0,./parser/test_scripts/SysMocap/mocaprender/mocapWorker.js
+867,14,./parser/test_scripts/SysMocap/mocaprender/script.js
+691,11,./parser/test_scripts/SysMocap/render/render.js
+7831,363,./parser/test_scripts/SysMocap/utils/html2canvas.js
+218,0,./parser/test_scripts/SysMocap/utils/language.js
+45,0,./parser/test_scripts/SysMocap/utils/mdc.js
+1,0,./parser/test_scripts/SysMocap/utils/model-importer.js
+246,6,./parser/test_scripts/SysMocap/utils/particle-boom.umd.js
+6212,204,./parser/test_scripts/SysMocap/utils/RecordRTC.js
+120,5,./parser/test_scripts/SysMocap/utils/setting.js
+45,1,./parser/test_scripts/SysMocap/webserv/httpx.js
+86,0,./parser/test_scripts/SysMocap/webserv/server.js
+15,0,./parser/test_scripts/SysMocap/webserv/worker.js

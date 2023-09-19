@@ -1,0 +1,6 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+showLoadingCursor,show,True,VERB,4
+showLoadingCursor,Loading,True,VERB,7
+showLoadingCursor,Cursor,True,PROPN,6
+restoreCursor,restore,True,VERB,7
+restoreCursor,Cursor,True,PROPN,6

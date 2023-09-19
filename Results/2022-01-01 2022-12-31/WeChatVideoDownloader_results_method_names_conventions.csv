@@ -1,0 +1,8 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+checkCertInstalled,3,True,True,True,True,False
+installCert,2,True,True,True,True,False
+createWindow,2,True,True,True,True,False
+startServer,2,True,True,True,True,False
+setProxy,2,True,True,True,True,False
+closeProxy,2,True,True,True,True,False
+getMacAvailableNetworks,4,True,True,True,True,False

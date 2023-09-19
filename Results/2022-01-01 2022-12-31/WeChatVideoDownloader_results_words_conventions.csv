@@ -1,0 +1,18 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+checkCertInstalled,check,True,VERB,5
+checkCertInstalled,Cert,True,NOUN,4
+checkCertInstalled,Installed,True,VERB,9
+installCert,install,True,VERB,7
+installCert,Cert,True,NOUN,4
+createWindow,create,True,VERB,6
+createWindow,Window,True,NOUN,6
+startServer,start,True,VERB,5
+startServer,Server,True,PROPN,6
+setProxy,set,True,VERB,3
+setProxy,Proxy,True,INTJ,5
+closeProxy,close,True,VERB,5
+closeProxy,Proxy,True,INTJ,5
+getMacAvailableNetworks,get,True,VERB,3
+getMacAvailableNetworks,Mac,True,NOUN,3
+getMacAvailableNetworks,Available,True,ADJ,9
+getMacAvailableNetworks,Networks,True,NOUN,8

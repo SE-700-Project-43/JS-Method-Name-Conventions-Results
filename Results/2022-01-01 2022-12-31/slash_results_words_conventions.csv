@@ -1,0 +1,17 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getFilename,get,True,VERB,3
+getFilename,Filename,True,ADJ,8
+getSourceFilename,get,True,VERB,3
+getSourceFilename,Source,True,NOUN,6
+getSourceFilename,Filename,True,ADJ,8
+pluginWebpackCompat,plugin,True,VERB,6
+pluginWebpackCompat,Web,True,NOUN,3
+pluginWebpackCompat,pack,True,VERB,4
+pluginWebpackCompat,Compat,False,NOUN,6
+pluginWebpackCompat,plugin,True,VERB,6
+pluginWebpackCompat,Web,True,NOUN,3
+pluginWebpackCompat,pack,True,VERB,4
+pluginWebpackCompat,Compat,False,NOUN,6
+getJestProjects,get,True,VERB,3
+getJestProjects,Jest,True,NOUN,4
+getJestProjects,Projects,True,NOUN,8

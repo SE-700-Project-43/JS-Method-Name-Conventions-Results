@@ -1,0 +1,5 @@
+17,0,./parser/test_scripts/chatgpt-chrome-extension/config.js
+15,0,./parser/test_scripts/chatgpt-chrome-extension/extension/background.js
+108,2,./parser/test_scripts/chatgpt-chrome-extension/extension/content.js
+6,0,./parser/test_scripts/chatgpt-chrome-extension/plugins/Default.js
+4,0,./parser/test_scripts/chatgpt-chrome-extension/plugins/Gangster.js

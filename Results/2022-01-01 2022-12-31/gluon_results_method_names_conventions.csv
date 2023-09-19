@@ -1,0 +1,20 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+run,1,True,True,True,True,False
+injectJS,2,False,True,True,True,False
+escapeCSS,2,False,True,True,True,False
+injectCSS,2,False,True,True,True,False
+exists,1,True,True,True,True,False
+parseArgs,2,False,True,True,True,False
+add,1,True,True,True,True,False
+remove,1,True,True,True,True,False
+generatePort,2,True,True,True,True,False
+getBinariesInPath,4,True,True,True,True,False
+exists,1,True,True,True,True,False
+getBrowserPath,3,True,True,True,True,False
+getBrowserType,3,True,True,True,True,False
+findBrowserPath,3,True,True,True,True,False
+generatePath,2,True,True,True,True,False
+rgb,1,False,False,True,True,False
+log,1,True,True,True,True,False
+logInline,2,True,True,True,True,False
+dangerousAPI,2,False,False,True,True,False

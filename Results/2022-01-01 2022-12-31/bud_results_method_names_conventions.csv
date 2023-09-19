@@ -1,0 +1,21 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+__markAsModule,3,True,False,True,True,False
+__require,1,True,True,True,True,False
+__commonJS,2,False,False,True,True,False
+__reExport,2,False,True,True,True,False
+__toESM,2,False,False,True,True,False
+forOwn,2,True,True,True,True,False
+extend,1,True,True,True,True,False
+forEach,2,True,False,True,True,False
+fourHexEscape,3,True,True,True,True,False
+hexadecimal,1,True,False,True,True,False
+isBuffer,2,True,False,True,True,False
+isObject,2,True,True,True,True,False
+isString,2,True,False,True,True,False
+isNumber,2,True,False,True,True,False
+isFunction,2,True,False,True,True,False
+isMap,2,True,False,True,True,False
+isSet,2,True,True,True,True,False
+increaseIndentation,2,True,False,True,True,False
+jsesc2,2,False,False,False,False,False
+createView,2,True,True,True,True,False

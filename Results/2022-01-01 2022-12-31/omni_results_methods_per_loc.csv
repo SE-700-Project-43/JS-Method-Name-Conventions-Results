@@ -1,0 +1,12 @@
+4,2,./parser/test_scripts/omni/firefox/assets/jquery.nice-select.min.js
+493,28,./parser/test_scripts/omni/firefox/background.js
+457,16,./parser/test_scripts/omni/firefox/content.js
+477,89,./parser/test_scripts/omni/firefox/focus.js
+3,163,./parser/test_scripts/omni/firefox/jquery.js
+6,54,./parser/test_scripts/omni/firefox/virtualized-list.min.js
+4,2,./parser/test_scripts/omni/src/assets/jquery.nice-select.min.js
+495,28,./parser/test_scripts/omni/src/background.js
+456,16,./parser/test_scripts/omni/src/content.js
+477,89,./parser/test_scripts/omni/src/focus.js
+3,163,./parser/test_scripts/omni/src/jquery.js
+6,54,./parser/test_scripts/omni/src/virtualized-list.min.js

@@ -1,0 +1,9 @@
+7,0,./parser/test_scripts/preguntas-entrevista-react/app/constants.js
+12,1,./parser/test_scripts/preguntas-entrevista-react/app/head.js
+38,2,./parser/test_scripts/preguntas-entrevista-react/app/layout.js
+15,1,./parser/test_scripts/preguntas-entrevista-react/app/[post]/head.js
+11,0,./parser/test_scripts/preguntas-entrevista-react/next.config.js
+24,1,./parser/test_scripts/preguntas-entrevista-react/pages/api/search.js
+7,0,./parser/test_scripts/preguntas-entrevista-react/postcss.config.js
+22,0,./parser/test_scripts/preguntas-entrevista-react/tailwind.config.js
+22,2,./parser/test_scripts/preguntas-entrevista-react/utils/posts.js

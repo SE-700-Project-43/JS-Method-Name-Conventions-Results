@@ -1,0 +1,27 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+CHANT_TRIGGER,CHANT,True,NOUN,5
+CHANT_TRIGGER,TRIGGER,True,NOUN,7
+filterCondition,filter,True,VERB,6
+filterCondition,Condition,True,NOUN,9
+load,load,True,NOUN,4
+sanitize,sanitize,True,VERB,8
+UMI_TRIGGER,UMI,False,PROPN,3
+UMI_TRIGGER,TRIGGER,True,NOUN,7
+insertAt,insert,True,ADJ,6
+insertAt,At,True,ADP,2
+clean,clean,True,VERB,5
+filteredWildcards,filtered,True,VERB,8
+filteredWildcards,Wildcards,True,NOUN,9
+baseFilter,base,True,NOUN,4
+baseFilter,Filter,True,PROPN,6
+spaceIncludeFilter,space,True,NOUN,5
+spaceIncludeFilter,Include,True,VERB,7
+spaceIncludeFilter,Filter,True,PROPN,6
+updateUmiTags,update,True,VERB,6
+updateUmiTags,Umi,False,ADP,3
+updateUmiTags,Tags,True,NOUN,4
+load,load,True,NOUN,4
+sanitize,sanitize,True,VERB,8
+getCaretCoordinates,get,True,VERB,3
+getCaretCoordinates,Caret,True,VERB,5
+getCaretCoordinates,Coordinates,True,NOUN,11
