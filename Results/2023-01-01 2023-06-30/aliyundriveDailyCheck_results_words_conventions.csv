@@ -1,0 +1,23 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getQLToken,get,True,VERB,3
+getQLToken,QL,True,PROPN,2
+getQLToken,Token,True,PROPN,5
+generateRequestHeader,generate,True,VERB,8
+generateRequestHeader,Request,True,NOUN,7
+generateRequestHeader,Header,True,NOUN,6
+init,init,True,PROPN,4
+getQLEnvs,get,True,VERB,3
+getQLEnvs,QL,True,PROPN,2
+getQLEnvs,Envs,False,PROPN,4
+createCkEnv,create,True,VERB,6
+createCkEnv,Ck,True,NOUN,2
+createCkEnv,Env,False,PROPN,3
+updateCkEnv,update,True,VERB,6
+updateCkEnv,Ck,True,NOUN,2
+updateCkEnv,Env,False,PROPN,3
+deleteCkEnv,delete,True,VERB,6
+deleteCkEnv,Ck,True,NOUN,2
+deleteCkEnv,Env,False,PROPN,3
+toggleCKEnv,toggle,True,NOUN,6
+toggleCKEnv,CK,True,PROPN,2
+toggleCKEnv,Env,False,PROPN,3

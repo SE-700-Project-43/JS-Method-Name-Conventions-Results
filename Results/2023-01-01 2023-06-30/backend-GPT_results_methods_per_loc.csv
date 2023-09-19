@@ -1,0 +1,11 @@
+34,6,./parser/test_scripts/backend-GPT/frontend/src/APIHelper.js
+128,6,./parser/test_scripts/backend-GPT/frontend/src/App.js
+10,0,./parser/test_scripts/backend-GPT/frontend/src/App.test.js
+18,0,./parser/test_scripts/backend-GPT/frontend/src/index.js
+142,6,./parser/test_scripts/backend-GPT/frontend/src/serviceWorker.js
+6,0,./parser/test_scripts/backend-GPT/frontend/src/setupTests.js
+6,1,./parser/test_scripts/backend-GPT/frontend-chess/src/api/api.js
+9,0,./parser/test_scripts/backend-GPT/frontend-chess/src/App.test.js
+29,1,./parser/test_scripts/backend-GPT/frontend-chess/src/Highlight.js
+18,0,./parser/test_scripts/backend-GPT/frontend-chess/src/index.js
+6,0,./parser/test_scripts/backend-GPT/frontend-chess/src/setupTests.js

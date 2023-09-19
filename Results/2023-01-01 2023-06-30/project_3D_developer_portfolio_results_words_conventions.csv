@@ -1,0 +1,11 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+textVariant,text,True,NOUN,4
+textVariant,Variant,True,ADJ,7
+fadeIn,fade,True,NOUN,4
+fadeIn,In,True,ADP,2
+zoomIn,zoom,True,VERB,4
+zoomIn,In,True,ADP,2
+slideIn,slide,True,VERB,5
+slideIn,In,True,ADP,2
+staggerContainer,stagger,True,NOUN,7
+staggerContainer,Container,True,NOUN,9

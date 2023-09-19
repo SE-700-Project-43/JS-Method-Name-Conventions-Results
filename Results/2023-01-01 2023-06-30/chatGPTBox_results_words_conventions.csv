@@ -1,0 +1,16 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getSocketUrl,get,True,VERB,3
+getSocketUrl,Socket,True,NOUN,6
+getSocketUrl,Url,False,NOUN,3
+onopen,on,True,ADP,2
+onopen,open,True,VERB,4
+connectWs,connect,True,VERB,7
+connectWs,Ws,False,VERB,2
+onclose,on,True,ADP,2
+onclose,close,True,VERB,5
+disconnectWs,disconnect,True,VERB,10
+disconnectWs,Ws,False,VERB,2
+onmessage,on,True,ADP,2
+onmessage,message,True,NOUN,7
+listenWs,listen,True,VERB,6
+listenWs,Ws,False,VERB,2

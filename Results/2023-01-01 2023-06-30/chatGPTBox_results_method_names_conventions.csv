@@ -1,0 +1,8 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+getSocketUrl,3,False,True,True,True,False
+onopen,2,True,True,True,False,False
+connectWs,2,False,True,True,True,False
+onclose,2,True,True,True,False,False
+disconnectWs,2,False,True,True,True,False
+onmessage,2,True,False,True,False,False
+listenWs,2,False,True,True,True,False

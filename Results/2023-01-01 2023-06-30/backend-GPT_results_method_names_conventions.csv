@@ -1,0 +1,21 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+createTodo,2,False,True,True,True,False
+deleteTodo,2,False,True,True,True,False
+markIncomplete,2,True,False,True,True,False
+markComplete,2,True,True,True,True,False
+runCommand,2,True,True,True,True,False
+getAllTodos,3,False,True,True,True,False
+fetchTodoAndSetTodos,5,False,True,True,True,False
+runCommand,2,True,True,True,True,False
+createTodo,2,False,True,True,True,False
+deleteTodo,2,False,True,True,True,False
+updateTodo,2,False,True,True,True,False
+App,1,True,False,True,False,False
+register,1,True,True,True,True,False
+onstatechange,3,True,True,True,False,False
+onupdatefound,2,False,True,True,False,False
+registerValidSW,3,False,True,True,True,False
+checkValidServiceWorker,4,True,True,True,True,False
+unregister,1,True,False,True,True,False
+makeChessMove,3,True,True,True,True,False
+Highlight,1,True,False,True,False,False

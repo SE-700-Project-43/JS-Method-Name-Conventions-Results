@@ -1,0 +1,7 @@
+getSocketUrl,12,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,3
+onopen,6,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,17
+connectWs,9,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,13
+onclose,7,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,25
+disconnectWs,12,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,23
+onmessage,9,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,35
+listenWs,8,./parser/test_scripts/chatGPTBox/src/services/clients/poe/websocket.js,31

@@ -1,0 +1,14 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+handler,1,True,False,True,True,False
+App,1,True,False,True,False,False
+Document,1,True,False,True,False,False
+handler,1,True,False,True,True,False
+Document,1,True,False,True,False,False
+handler,1,True,False,True,True,False
+App,1,True,False,True,False,False
+Document,1,True,False,True,False,False
+handler,1,True,False,True,True,False
+App,1,True,False,True,False,False
+Document,1,True,False,True,False,False
+handler,1,True,False,True,True,False
+Document,1,True,False,True,False,False

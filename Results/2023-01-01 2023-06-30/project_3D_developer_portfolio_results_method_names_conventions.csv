@@ -1,0 +1,6 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+textVariant,2,True,False,True,True,False
+fadeIn,2,True,False,True,True,False
+zoomIn,2,True,True,True,True,False
+slideIn,2,True,True,True,True,False
+staggerContainer,2,True,False,True,True,False

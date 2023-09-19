@@ -1,0 +1,4 @@
+preview,7,./parser/test_scripts/ChatALL/src/helpers/template-helper.js,18
+saveLatestVersion,17,./parser/test_scripts/ChatALL/src/update.js,7
+getLatestVersionFromGithub,26,./parser/test_scripts/ChatALL/src/update.js,31
+updateApp,9,./parser/test_scripts/ChatALL/src/update.js,45

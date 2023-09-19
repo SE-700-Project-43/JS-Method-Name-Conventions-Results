@@ -1,0 +1,5 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+preview,1,True,False,True,True,False
+saveLatestVersion,3,True,True,True,True,False
+getLatestVersionFromGithub,5,False,True,True,True,False
+updateApp,2,True,True,True,True,False

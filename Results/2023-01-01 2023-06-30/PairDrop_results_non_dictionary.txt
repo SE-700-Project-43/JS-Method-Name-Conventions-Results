@@ -1,0 +1,6 @@
+qrrs
+svg
+favicon
+cyrb
+url
+base64

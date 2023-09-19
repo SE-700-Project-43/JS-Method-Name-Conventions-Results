@@ -1,0 +1,16 @@
+145,0,./parser/test_scripts/PairDrop/public/scripts/localization.js
+1180,15,./parser/test_scripts/PairDrop/public/scripts/network.js
+3,11,./parser/test_scripts/PairDrop/public/scripts/NoSleep.min.js
+2,12,./parser/test_scripts/PairDrop/public/scripts/QRCode.min.js
+79,3,./parser/test_scripts/PairDrop/public/scripts/theme.js
+2773,68,./parser/test_scripts/PairDrop/public/scripts/ui.js
+409,3,./parser/test_scripts/PairDrop/public/scripts/util.js
+149,7,./parser/test_scripts/PairDrop/public/service-worker.js
+145,0,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/localization.js
+1252,15,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/network.js
+3,11,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/NoSleep.min.js
+2,12,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/QRCode.min.js
+79,3,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/theme.js
+2774,68,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/ui.js
+429,5,./parser/test_scripts/PairDrop/public_included_ws_fallback/scripts/util.js
+149,7,./parser/test_scripts/PairDrop/public_included_ws_fallback/service-worker.js

@@ -1,0 +1,13 @@
+handler,7,./parser/test_scripts/floatui/templates/blinder/pages/api/hello.js,3
+App,3,./parser/test_scripts/floatui/templates/blinder/pages/_app.js,4
+Document,8,./parser/test_scripts/floatui/templates/blinder/pages/_document.js,3
+handler,7,./parser/test_scripts/floatui/templates/ioacademy/pages/api/hello.js,3
+Document,8,./parser/test_scripts/floatui/templates/ioacademy/pages/_document.js,3
+handler,7,./parser/test_scripts/floatui/templates/mailgo/pages/api/hello.js,3
+App,3,./parser/test_scripts/floatui/templates/mailgo/pages/_app.js,4
+Document,8,./parser/test_scripts/floatui/templates/mailgo/pages/_document.js,3
+handler,7,./parser/test_scripts/floatui/templates/split/pages/api/hello.js,3
+App,3,./parser/test_scripts/floatui/templates/split/pages/_app.js,4
+Document,8,./parser/test_scripts/floatui/templates/split/pages/_document.js,3
+handler,7,./parser/test_scripts/floatui/templates/starboard/pages/api/hello.js,3
+Document,8,./parser/test_scripts/floatui/templates/starboard/pages/_document.js,3

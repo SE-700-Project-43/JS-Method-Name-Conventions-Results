@@ -1,0 +1,9 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+getQLToken,3,False,True,True,True,False
+generateRequestHeader,3,True,True,True,True,False
+init,1,False,False,True,True,False
+getQLEnvs,3,False,True,True,True,False
+createCkEnv,3,True,True,True,True,False
+updateCkEnv,3,True,True,True,True,False
+deleteCkEnv,3,True,True,True,True,False
+toggleCKEnv,3,True,False,True,True,False

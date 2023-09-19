@@ -1,0 +1,12 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+preview,preview,True,NOUN,7
+saveLatestVersion,save,True,VERB,4
+saveLatestVersion,Latest,True,ADJ,6
+saveLatestVersion,Version,True,NOUN,7
+getLatestVersionFromGithub,get,True,VERB,3
+getLatestVersionFromGithub,Latest,True,ADJ,6
+getLatestVersionFromGithub,Version,True,NOUN,7
+getLatestVersionFromGithub,From,True,ADP,4
+getLatestVersionFromGithub,Github,False,NOUN,6
+updateApp,update,True,VERB,6
+updateApp,App,True,PROPN,3

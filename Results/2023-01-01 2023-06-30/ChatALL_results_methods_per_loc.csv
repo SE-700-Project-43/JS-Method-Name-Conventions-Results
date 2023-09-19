@@ -1,0 +1,10 @@
+10,0,./parser/test_scripts/ChatALL/.prettierrc.js
+17,0,./parser/test_scripts/ChatALL/babel.config.js
+201,0,./parser/test_scripts/ChatALL/src/components/ShortcutGuide/shortcut.const.js
+40,1,./parser/test_scripts/ChatALL/src/helpers/template-helper.js
+44,0,./parser/test_scripts/ChatALL/src/i18n/index.js
+17,0,./parser/test_scripts/ChatALL/src/prompts/index.js
+11,0,./parser/test_scripts/ChatALL/src/store/messagesPersist.js
+11,0,./parser/test_scripts/ChatALL/src/store/promptsPersist.js
+52,3,./parser/test_scripts/ChatALL/src/update.js
+51,0,./parser/test_scripts/ChatALL/vue.config.js
