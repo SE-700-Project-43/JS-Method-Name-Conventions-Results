@@ -1,0 +1,3 @@
+shortenAddress,14,./parser/test_scripts/project_web3.0/client/src/utils/shortenAddress.js,1
+main,4,./parser/test_scripts/project_web3.0/smart_contract/scripts/deploy.js,1
+runMain,7,./parser/test_scripts/project_web3.0/smart_contract/scripts/deploy.js,10

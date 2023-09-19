@@ -1,0 +1,7 @@
+83,1,./parser/test_scripts/microdiff/bench.js
+44,0,./parser/test_scripts/microdiff/tests/arrays.js
+75,0,./parser/test_scripts/microdiff/tests/basic.js
+32,0,./parser/test_scripts/microdiff/tests/class-primitives.js
+16,0,./parser/test_scripts/microdiff/tests/cycles.js
+38,0,./parser/test_scripts/microdiff/tests/dates.js
+19,0,./parser/test_scripts/microdiff/tests/regex.js

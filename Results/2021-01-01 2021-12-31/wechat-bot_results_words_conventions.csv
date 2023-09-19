@@ -1,0 +1,5 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+getChatGPTReply,get,True,VERB,3
+getChatGPTReply,Chat,True,VERB,4
+getChatGPTReply,GPT,False,PROPN,3
+getChatGPTReply,Reply,True,NOUN,5

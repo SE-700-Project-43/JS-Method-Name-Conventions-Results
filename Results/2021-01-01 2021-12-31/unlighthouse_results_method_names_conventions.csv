@@ -1,0 +1,4 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+Home,1,True,False,True,False,False
+Post,1,True,False,True,False,False
+CatchAll,2,True,True,True,False,False

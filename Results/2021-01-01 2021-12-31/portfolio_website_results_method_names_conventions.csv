@@ -1,0 +1,12 @@
+Method Name,Length (Words),Grammatical Structure,Verb Phrase,Full Words,Camel Case,Underscore Case
+Acomplishments,1,False,False,True,False,False
+BackgroundAnimation,2,True,False,True,False,False
+Footer,1,True,False,True,False,False
+Header,1,True,False,True,False,False
+NavDropDown,3,True,True,True,False,False
+Projects,1,True,False,True,False,False
+Technologies,3,False,False,True,False,False
+Layout,1,True,False,True,False,False
+Home,1,True,False,True,False,False
+Button,1,True,False,True,False,False
+Theme,1,True,False,True,False,False

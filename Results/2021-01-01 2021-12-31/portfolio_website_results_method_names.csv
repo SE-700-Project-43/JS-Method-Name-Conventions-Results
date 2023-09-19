@@ -1,0 +1,11 @@
+Acomplishments,14,./parser/test_scripts/portfolio_website/src/components/Acomplishments/Acomplishments.js,13
+BackgroundAnimation,19,./parser/test_scripts/portfolio_website/src/components/BackgrooundAnimation/BackgroundAnimation.js,3
+Footer,6,./parser/test_scripts/portfolio_website/src/components/Footer/Footer.js,7
+Header,6,./parser/test_scripts/portfolio_website/src/components/Header/Header.js,8
+NavDropDown,11,./parser/test_scripts/portfolio_website/src/components/NavDropDown/index.js,7
+Projects,8,./parser/test_scripts/portfolio_website/src/components/Projects/Projects.js,7
+Technologies,12,./parser/test_scripts/portfolio_website/src/components/Technologies/Technologies.js,6
+Layout,6,./parser/test_scripts/portfolio_website/src/layout/Layout.js,7
+Home,4,./parser/test_scripts/portfolio_website/src/pages/index.js,10
+Button,6,./parser/test_scripts/portfolio_website/src/styles/GlobalComponents/Button.js,5
+Theme,5,./parser/test_scripts/portfolio_website/src/styles/theme.js,6

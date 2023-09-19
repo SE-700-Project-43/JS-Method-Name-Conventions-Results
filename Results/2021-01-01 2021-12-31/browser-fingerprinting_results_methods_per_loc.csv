@@ -1,0 +1,7 @@
+2,56,./parser/test_scripts/browser-fingerprinting/docs/assets/index.e859646e.js
+19,0,./parser/test_scripts/browser-fingerprinting/tester/src/state/actions.js
+19,0,./parser/test_scripts/browser-fingerprinting/tester/src/state/reducers.js
+12,0,./parser/test_scripts/browser-fingerprinting/tester/src/state/store.js
+172,8,./parser/test_scripts/browser-fingerprinting/tester/src/utils/base64.js
+3,12,./parser/test_scripts/browser-fingerprinting/tester/src/utils/md5.js
+16,0,./parser/test_scripts/browser-fingerprinting/tester/vite.config.js

@@ -1,0 +1,11 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+saveProjectPreviewImage,save,True,VERB,4
+saveProjectPreviewImage,Project,True,NOUN,7
+saveProjectPreviewImage,Preview,True,PROPN,7
+saveProjectPreviewImage,Image,True,NOUN,5
+loadImg,load,True,NOUN,4
+loadImg,Img,False,PROPN,3
+saveProjectPreviewGIF,save,True,VERB,4
+saveProjectPreviewGIF,Project,True,NOUN,7
+saveProjectPreviewGIF,Preview,True,PROPN,7
+saveProjectPreviewGIF,GIF,True,PROPN,3

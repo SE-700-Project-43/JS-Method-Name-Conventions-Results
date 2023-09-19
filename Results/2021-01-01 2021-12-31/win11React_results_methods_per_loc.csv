@@ -1,0 +1,16 @@
+7,0,./parser/test_scripts/win11React/postcss.config.js
+25,0,./parser/test_scripts/win11React/public/console.js
+602,9,./parser/test_scripts/win11React/public/dycalendar.js
+1580,13,./parser/test_scripts/win11React/public/react-pwa.js
+17,2,./parser/test_scripts/win11React/public/script.js
+43,0,./parser/test_scripts/win11React/public/serviceWorker.js
+26,1,./parser/test_scripts/win11React/src/components/login.js
+183,0,./parser/test_scripts/win11React/src/containers/applications/apps/assets/jiosaavn.js
+51,0,./parser/test_scripts/win11React/src/i18nextConf.js
+215,1,./parser/test_scripts/win11React/src/reducers/globals.js
+32,0,./parser/test_scripts/win11React/src/reducers/index.js
+310,1,./parser/test_scripts/win11React/src/utils/apps.js
+146,0,./parser/test_scripts/win11React/src/utils/bin.js
+91,0,./parser/test_scripts/win11React/src/utils/index.js
+9,0,./parser/test_scripts/win11React/tailwind.config.js
+31,1,./parser/test_scripts/win11React/vite.config.js

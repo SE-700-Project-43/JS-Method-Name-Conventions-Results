@@ -1,0 +1,5 @@
+221,1,./parser/test_scripts/unlighthouse/examples/nextjs/pages/index.js
+11,1,./parser/test_scripts/unlighthouse/examples/nextjs/pages/post/[pid].js
+11,1,./parser/test_scripts/unlighthouse/examples/nextjs/pages/[...slug].js
+15,0,./parser/test_scripts/unlighthouse/examples/vitepress/docs/vite.config.js
+12532,0,./parser/test_scripts/unlighthouse/packages/client/public/assets/payload.js

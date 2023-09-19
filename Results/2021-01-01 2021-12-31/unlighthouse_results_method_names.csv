@@ -1,0 +1,3 @@
+Home,4,./parser/test_scripts/unlighthouse/examples/nextjs/pages/index.js,4
+Post,4,./parser/test_scripts/unlighthouse/examples/nextjs/pages/post/[pid].js,3
+CatchAll,8,./parser/test_scripts/unlighthouse/examples/nextjs/pages/[...slug].js,3

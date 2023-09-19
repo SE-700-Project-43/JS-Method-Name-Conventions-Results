@@ -1,0 +1,6 @@
+Method Name,Individual Word,Dictionary Word,POS Tag,Length (Characters)
+shortenAddress,shorten,True,VERB,7
+shortenAddress,Address,True,NOUN,7
+main,main,True,ADJ,4
+runMain,run,True,VERB,3
+runMain,Main,True,ADJ,4

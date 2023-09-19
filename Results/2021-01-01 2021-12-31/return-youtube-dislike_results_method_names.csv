@@ -1,0 +1,15 @@
+localizeHtmlPage,16,./parser/test_scripts/return-youtube-dislike/Extensions/combined/changelog/changelog.js,25
+createLink,10,./parser/test_scripts/return-youtube-dislike/Extensions/combined/changelog/changelog.js,52
+createRateBar,13,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/bar.js,12
+sendVote,8,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,15
+likeClicked,11,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,25
+dislikeClicked,14,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,54
+addLikeDislikeEventListener,27,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,85
+storageChangeHandler,20,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,97
+handleDisableVoteSubmissionChangeEvent,38,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,122
+handleColoredThumbsChangeEvent,30,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,126
+handleColoredBarChangeEvent,27,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,130
+handleColorThemeChangeEvent,27,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,134
+handleNumberDisplayFormatChangeEvent,36,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,139
+handleNumberDisplayReformatLikesChangeEvent,43,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/events.js,143
+createStarRating,16,./parser/test_scripts/return-youtube-dislike/Extensions/combined/src/starRating.js,3
